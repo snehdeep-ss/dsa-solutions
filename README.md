@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█░░░░░░░░░░░░░░░░░░░] 4%  •  7/176 problems
+Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  •  8/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **7** (7 roadmap · 0 extra) |
+| ✅ Total solved | **8** (8 roadmap · 0 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-03-04 |
 
@@ -33,12 +33,12 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 4%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**7/41 · 17%**
+**8/41 · 20%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Arrays Deep Dive + Language Setup | ✅ |
-| Day 2 | Two Pointer Pattern | 🔄 3/4 |
+| Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | ⬜ |
 | Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
 | Day 5 | Linked List Mastery | ⬜ |
@@ -130,7 +130,8 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 4%  • 
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 | Day 1 | 2026-03-04 | 0 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 | Day 2 | 2026-03-04 | 39 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 | Day 2 | 2026-03-04 | 3 |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 | Day 2 | 2026-03-04 | 7 |
 | 75 | [Sort Colors (Dutch Flag)](https://leetcode.com/problems/sort-colors/) | 🟡 | Day 2 | 2026-03-04 | 0 |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 06:31:19 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 08:04:14 GMT*
