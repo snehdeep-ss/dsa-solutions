@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [░░░░░░░░░░░░░░░░░░░░] 1%  •  2/176 problems
+Roadmap  [░░░░░░░░░░░░░░░░░░░░] 2%  •  3/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **2** (2 roadmap · 0 extra) |
+| ✅ Total solved | **3** (3 roadmap · 0 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-03-04 |
 
@@ -33,11 +33,11 @@ Roadmap  [░░░░░░░░░░░░░░░░░░░░] 1%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**2/41 · 5%**
+**3/41 · 7%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 1 | Arrays Deep Dive + Language Setup | 🔄 2/4 |
+| Day 1 | Arrays Deep Dive + Language Setup | 🔄 3/4 |
 | Day 2 | Two Pointer Pattern | ⬜ |
 | Day 3 | Sliding Window Pattern | ⬜ |
 | Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [░░░░░░░░░░░░░░░░░░░░] 1%  • 
 |---|---------|------|-----|------|---------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | Day 1 | 2026-03-04 | 0 |
 | 53 | [Max Subarray (Kadane's)](https://leetcode.com/problems/maximum-subarray/) | 🟡 | Day 1 | 2026-03-04 | 0 |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 | Day 1 | 2026-03-04 | 37 |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 06:05:09 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 06:05:13 GMT*
