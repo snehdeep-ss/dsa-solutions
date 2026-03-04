@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  •  8/176 problems
+Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  •  9/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **9** (8 roadmap · 1 extra) |
+| ✅ Total solved | **10** (9 roadmap · 1 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-03-04 |
 
@@ -34,13 +34,13 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**8/41 · 20%**
+**9/41 · 22%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Arrays Deep Dive + Language Setup | ✅ |
 | Day 2 | Two Pointer Pattern | ✅ |
-| Day 3 | Sliding Window Pattern | ⬜ |
+| Day 3 | Sliding Window Pattern | 🔄 1/4 |
 | Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
 | Day 5 | Linked List Mastery | ⬜ |
 | Day 6 | Stacks + Monotonic Stack | ⬜ |
@@ -133,6 +133,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  • 
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 | Day 2 | 2026-03-04 | 3 |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 | Day 2 | 2026-03-04 | 7 |
 | 75 | [Sort Colors (Dutch Flag)](https://leetcode.com/problems/sort-colors/) | 🟡 | Day 2 | 2026-03-04 | 0 |
+| 3 | [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 | Day 3 | 2026-03-04 | 0 |
 
 ---
 
@@ -145,4 +146,4 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  • 
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 08:06:31 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 09:24:39 GMT*
