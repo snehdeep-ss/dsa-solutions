@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█░░░░░░░░░░░░░░░░░░░] 3%  •  5/176 problems
+Roadmap  [█░░░░░░░░░░░░░░░░░░░] 3%  •  6/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **5** (5 roadmap · 0 extra) |
+| ✅ Total solved | **6** (6 roadmap · 0 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-03-04 |
 
@@ -33,12 +33,12 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 3%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**5/41 · 12%**
+**6/41 · 15%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Arrays Deep Dive + Language Setup | ✅ |
-| Day 2 | Two Pointer Pattern | 🔄 1/4 |
+| Day 2 | Two Pointer Pattern | 🔄 2/4 |
 | Day 3 | Sliding Window Pattern | ⬜ |
 | Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
 | Day 5 | Linked List Mastery | ⬜ |
@@ -129,6 +129,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 3%  • 
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 | Day 1 | 2026-03-04 | 37 |
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 | Day 1 | 2026-03-04 | 0 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 | Day 2 | 2026-03-04 | 39 |
+| 75 | [Sort Colors (Dutch Flag)](https://leetcode.com/problems/sort-colors/) | 🟡 | Day 2 | 2026-03-04 | 0 |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 06:05:44 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 06:05:50 GMT*
