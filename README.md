@@ -10,7 +10,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  • 
 
 | | |
 |-|-|
-| ✅ Total solved | **8** (8 roadmap · 0 extra) |
+| ✅ Total solved | **9** (8 roadmap · 1 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-03-04 |
 
@@ -26,6 +26,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  • 
 ├── Phase4-Dynamic-Programming-&-Backtracking/
 ├── Phase5-Advanced-Topics/
 ├── Phase6-Mock-Interviews-&-Revision/
+├── Extra-Problems/
 └── README.md
 ```
 
@@ -134,4 +135,14 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 5%  • 
 | 75 | [Sort Colors (Dutch Flag)](https://leetcode.com/problems/sort-colors/) | 🟡 | Day 2 | 2026-03-04 | 0 |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 08:04:14 GMT*
+
+## ⭐ Extra Problems
+
+### Arrays
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
+
+---
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 08:06:31 GMT*
