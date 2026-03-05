@@ -10,7 +10,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  • 
 
 | | |
 |-|-|
-| ✅ Total solved | **13** (12 roadmap · 1 extra) |
+| ✅ Total solved | **14** (12 roadmap · 2 extra) |
 | 🔥 Current streak | **2 days** |
 | 📅 Last updated | 2026-03-05 |
 
@@ -148,5 +148,11 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  • 
 |---|---------|------|------|------|
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
 
+### Sliding Window
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](./Extra-Problems/Sliding_Window/2461-maximum-sum-of-distinct-subarrays-with-length-k.cpp) | 🟡 | 2026-03-05 | — |
+
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 05 Mar 2026 05:11:36 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 05 Mar 2026 11:02:05 GMT*
