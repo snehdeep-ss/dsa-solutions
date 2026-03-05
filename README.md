@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█░░░░░░░░░░░░░░░░░░░] 6%  •  10/176 problems
+Roadmap  [█░░░░░░░░░░░░░░░░░░░] 6%  •  11/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **11** (10 roadmap · 1 extra) |
-| 🔥 Current streak | **1 day** |
-| 📅 Last updated | 2026-03-04 |
+| ✅ Total solved | **12** (11 roadmap · 1 extra) |
+| 🔥 Current streak | **2 days** |
+| 📅 Last updated | 2026-03-05 |
 
 ---
 
@@ -34,7 +34,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 6%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**10/41 · 24%**
+**11/41 · 27%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -42,7 +42,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 6%  • 
 | Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | 🔄 2/4 |
 | Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
-| Day 5 | Linked List Mastery | ⬜ |
+| Day 5 | Linked List Mastery | 🔄 1/6 |
 | Day 6 | Stacks + Monotonic Stack | ⬜ |
 | Day 7 | Binary Search — All Patterns | ⬜ |
 | Day 8 | Binary Search — Hard Variants | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 6%  • 
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 | Day 5 | 2026-03-05 | 7 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | Day 1 | 2026-03-04 | 0 |
 | 53 | [Max Subarray (Kadane's)](https://leetcode.com/problems/maximum-subarray/) | 🟡 | Day 1 | 2026-03-04 | 0 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 | Day 1 | 2026-03-04 | 37 |
@@ -147,4 +148,4 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 6%  • 
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 04 Mar 2026 12:42:27 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 05 Mar 2026 04:38:53 GMT*
