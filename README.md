@@ -10,7 +10,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 
 | | |
 |-|-|
-| ✅ Total solved | **20** (14 roadmap · 6 extra) |
+| ✅ Total solved | **21** (14 roadmap · 7 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-03-06 |
 
@@ -159,6 +159,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 | 1004 | [Max Consecutive Ones III](./Extra-Problems/Sliding_Window/1004-max-consecutive-ones-iii.cpp) | 🟡 | 2026-03-06 | — |
 | 643 | [Maximum Average Subarray I](./Extra-Problems/Sliding_Window/643-maximum-average-subarray-i.cpp) | 🟢 | 2026-03-06 | — |
 | 2134 | [Minimum Swaps to Group All 1's Together II](./Extra-Problems/Sliding_Window/2134-minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 | 2026-03-06 | — |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](./Extra-Problems/Sliding_Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | 🟡 | 2026-03-06 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 14:22:18 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 14:45:04 GMT*
