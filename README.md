@@ -10,9 +10,9 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  • 
 
 | | |
 |-|-|
-| ✅ Total solved | **14** (12 roadmap · 2 extra) |
-| 🔥 Current streak | **2 days** |
-| 📅 Last updated | 2026-03-05 |
+| ✅ Total solved | **15** (12 roadmap · 3 extra) |
+| 🔥 Current streak | **3 days** |
+| 📅 Last updated | 2026-03-06 |
 
 ---
 
@@ -153,6 +153,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  • 
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](./Extra-Problems/Sliding_Window/2461-maximum-sum-of-distinct-subarrays-with-length-k.cpp) | 🟡 | 2026-03-05 | — |
+| 1004 | [Max Consecutive Ones III](./Extra-Problems/Sliding_Window/1004-max-consecutive-ones-iii.cpp) | 🟡 | 2026-03-06 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 05 Mar 2026 11:02:05 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 09:04:29 GMT*
