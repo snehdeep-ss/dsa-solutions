@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  •  13/176 problems
+Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  •  14/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **18** (13 roadmap · 5 extra) |
+| ✅ Total solved | **19** (14 roadmap · 5 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-03-06 |
 
@@ -34,13 +34,13 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**13/41 · 32%**
+**14/41 · 34%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Arrays Deep Dive + Language Setup | ✅ |
 | Day 2 | Two Pointer Pattern | ✅ |
-| Day 3 | Sliding Window Pattern | 🔄 3/4 |
+| Day 3 | Sliding Window Pattern | ✅ |
 | Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
 | Day 5 | Linked List Mastery | 🔄 1/6 |
 | Day 6 | Stacks + Monotonic Stack | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  • 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 | Day 3 | 2026-03-06 | 59 |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 | Day 3 | 2026-03-06 | 4 |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 | Day 5 | 2026-03-05 | 7 |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 | Day 9 | 2026-03-05 | 0 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | Day 1 | 2026-03-04 | 0 |
@@ -159,4 +160,4 @@ Roadmap  [█░░░░░░░░░░░░░░░░░░░] 7%  • 
 | 2134 | [Minimum Swaps to Group All 1's Together II](./Extra-Problems/Sliding_Window/2134-minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 | 2026-03-06 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 13:02:49 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 13:51:14 GMT*
