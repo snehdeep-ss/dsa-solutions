@@ -10,7 +10,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 
 | | |
 |-|-|
-| ✅ Total solved | **19** (14 roadmap · 5 extra) |
+| ✅ Total solved | **20** (14 roadmap · 6 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-03-06 |
 
@@ -149,6 +149,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
+| 128 | [Longest Consecutive Sequence](./Extra-Problems/Arrays/128-longest-consecutive-sequence.cpp) | 🟡 | 2026-03-06 | — |
 
 ### Sliding Window
 
@@ -160,4 +161,4 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 | 2134 | [Minimum Swaps to Group All 1's Together II](./Extra-Problems/Sliding_Window/2134-minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 | 2026-03-06 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 13:51:14 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 14:22:18 GMT*
