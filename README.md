@@ -10,9 +10,9 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 
 | | |
 |-|-|
-| ✅ Total solved | **21** (14 roadmap · 7 extra) |
-| 🔥 Current streak | **3 days** |
-| 📅 Last updated | 2026-03-06 |
+| ✅ Total solved | **22** (14 roadmap · 8 extra) |
+| 🔥 Current streak | **4 days** |
+| 📅 Last updated | 2026-03-07 |
 
 ---
 
@@ -160,6 +160,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 | 643 | [Maximum Average Subarray I](./Extra-Problems/Sliding_Window/643-maximum-average-subarray-i.cpp) | 🟢 | 2026-03-06 | — |
 | 2134 | [Minimum Swaps to Group All 1's Together II](./Extra-Problems/Sliding_Window/2134-minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 | 2026-03-06 | — |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./Extra-Problems/Sliding_Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | 🟡 | 2026-03-06 | — |
+| 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 06 Mar 2026 14:45:04 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 07 Mar 2026 09:27:07 GMT*
