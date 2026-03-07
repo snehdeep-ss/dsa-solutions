@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  •  14/176 problems
+Roadmap  [██░░░░░░░░░░░░░░░░░░] 9%  •  15/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **22** (14 roadmap · 8 extra) |
+| ✅ Total solved | **23** (15 roadmap · 8 extra) |
 | 🔥 Current streak | **4 days** |
 | 📅 Last updated | 2026-03-07 |
 
@@ -34,14 +34,14 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**14/41 · 34%**
+**15/41 · 37%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Arrays Deep Dive + Language Setup | ✅ |
 | Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | ✅ |
-| Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
+| Day 4 | Hash Maps + Prefix + Intervals | 🔄 1/6 |
 | Day 5 | Linked List Mastery | 🔄 1/6 |
 | Day 6 | Stacks + Monotonic Stack | ⬜ |
 | Day 7 | Binary Search — All Patterns | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 | Day 4 | 2026-03-07 | 7 |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 | Day 3 | 2026-03-06 | 59 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 | Day 3 | 2026-03-06 | 4 |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 | Day 5 | 2026-03-05 | 7 |
@@ -163,4 +164,4 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 8%  • 
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 07 Mar 2026 09:27:07 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 07 Mar 2026 11:07:48 GMT*
