@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██░░░░░░░░░░░░░░░░░░] 10%  •  17/176 problems
+Roadmap  [██░░░░░░░░░░░░░░░░░░] 10%  •  18/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **25** (17 roadmap · 8 extra) |
-| 🔥 Current streak | **4 days** |
-| 📅 Last updated | 2026-03-07 |
+| ✅ Total solved | **25** (18 roadmap · 7 extra) |
+| 🔥 Current streak | **5 days** |
+| 📅 Last updated | 2026-03-08 |
 
 ---
 
@@ -34,14 +34,14 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 10%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**17/41 · 41%**
+**18/41 · 44%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Arrays Deep Dive + Language Setup | ✅ |
 | Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | ✅ |
-| Day 4 | Hash Maps + Prefix + Intervals | 🔄 3/6 |
+| Day 4 | Hash Maps + Prefix + Intervals | 🔄 4/6 |
 | Day 5 | Linked List Mastery | 🔄 1/6 |
 | Day 6 | Stacks + Monotonic Stack | ⬜ |
 | Day 7 | Binary Search — All Patterns | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 10%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 | Day 4 | 2026-03-08 | 17 |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 | Day 4 | 2026-03-07 | 7 |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 | Day 4 | 2026-03-07 | 0 |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 | Day 4 | 2026-03-07 | 80 |
@@ -152,7 +153,6 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 10%  •
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
-| 128 | [Longest Consecutive Sequence](./Extra-Problems/Arrays/128-longest-consecutive-sequence.cpp) | 🟡 | 2026-03-06 | — |
 
 ### Sliding Window
 
@@ -166,4 +166,4 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 10%  •
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 07 Mar 2026 12:05:03 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 08 Mar 2026 15:57:56 GMT*
