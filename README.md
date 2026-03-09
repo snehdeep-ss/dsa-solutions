@@ -10,9 +10,9 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **26** (19 roadmap · 7 extra) |
-| 🔥 Current streak | **5 days** |
-| 📅 Last updated | 2026-03-08 |
+| ✅ Total solved | **27** (19 roadmap · 8 extra) |
+| 🔥 Current streak | **6 days** |
+| 📅 Last updated | 2026-03-09 |
 
 ---
 
@@ -155,6 +155,12 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •
 |---|---------|------|------|------|
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
 
+### Linked List
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 206 | [Reverse Linked List](./Extra-Problems/Linked_List/206-reverse-linked-list.cpp) | 🟢 | 2026-03-09 | — |
+
 ### Sliding Window
 
 | # | Problem | Diff | Date | Note |
@@ -167,4 +173,4 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 08 Mar 2026 16:25:26 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 09 Mar 2026 18:25:22 GMT*
