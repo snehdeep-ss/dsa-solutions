@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •  19/176 problems
+Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •  20/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **27** (19 roadmap · 8 extra) |
+| ✅ Total solved | **28** (20 roadmap · 8 extra) |
 | 🔥 Current streak | **6 days** |
 | 📅 Last updated | 2026-03-09 |
 
@@ -34,7 +34,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**19/41 · 46%**
+**20/41 · 49%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -42,7 +42,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •
 | Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | ✅ |
 | Day 4 | Hash Maps + Prefix + Intervals | 🔄 5/6 |
-| Day 5 | Linked List Mastery | 🔄 1/6 |
+| Day 5 | Linked List Mastery | 🔄 2/6 |
 | Day 6 | Stacks + Monotonic Stack | ⬜ |
 | Day 7 | Binary Search — All Patterns | ⬜ |
 | Day 8 | Binary Search — Hard Variants | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 | Day 5 | 2026-03-09 | 0 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 | Day 4 | 2026-03-08 | 17 |
 | 442 | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 | Day 4 | 2026-03-08 | 3 |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 | Day 4 | 2026-03-07 | 7 |
@@ -173,4 +174,4 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 11%  •
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 09 Mar 2026 18:25:22 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 09 Mar 2026 18:39:11 GMT*
