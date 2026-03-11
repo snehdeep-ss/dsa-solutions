@@ -10,9 +10,9 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 12%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **29** (21 roadmap · 8 extra) |
-| 🔥 Current streak | **7 days** |
-| 📅 Last updated | 2026-03-10 |
+| ✅ Total solved | **30** (21 roadmap · 9 extra) |
+| 🔥 Current streak | **8 days** |
+| 📅 Last updated | 2026-03-11 |
 
 ---
 
@@ -174,5 +174,11 @@ Roadmap  [██░░░░░░░░░░░░░░░░░░] 12%  •
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./Extra-Problems/Sliding_Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | 🟡 | 2026-03-06 | — |
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
+### Two Pointers
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
+
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 10 Mar 2026 18:29:50 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 11 Mar 2026 18:07:37 GMT*
