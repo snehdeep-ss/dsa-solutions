@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •  28/176 problems
+Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •  29/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **37** (28 roadmap · 9 extra) |
+| ✅ Total solved | **38** (29 roadmap · 9 extra) |
 | 🔥 Current streak | **2 days** |
 | 📅 Last updated | 2026-03-18 |
 
@@ -34,7 +34,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**28/41 · 68%**
+**29/41 · 71%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -44,7 +44,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 | Day 4 | Hash Maps + Prefix + Intervals | 🔄 5/6 |
 | Day 5 | Linked List Mastery | 🔄 4/6 |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
-| Day 7 | Binary Search — All Patterns | 🔄 2/4 |
+| Day 7 | Binary Search — All Patterns | 🔄 3/4 |
 | Day 8 | Binary Search — Hard Variants | ⬜ |
 | Day 9 | Phase 1 Consolidation + Sorting | 🔄 1/5 |
 
@@ -127,6 +127,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 |---|---------|------|-----|------|---------|
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 | Day 6 | 2026-03-18 | 7 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 | Day 7 | 2026-03-18 | 0 |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 | Day 7 | 2026-03-18 | 0 |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 | Day 5 | 2026-03-17 | 0 |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 | Day 6 | 2026-03-17 | 14 |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 | Day 6 | 2026-03-17 | 8 |
@@ -188,4 +189,4 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 | 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 18 Mar 2026 17:56:42 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 18 Mar 2026 18:16:14 GMT*
