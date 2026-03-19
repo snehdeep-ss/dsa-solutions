@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •  29/176 problems
+Roadmap  [███░░░░░░░░░░░░░░░░░] 17%  •  30/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **39** (29 roadmap · 10 extra) |
+| ✅ Total solved | **40** (30 roadmap · 10 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-03-19 |
 
@@ -34,7 +34,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**29/41 · 71%**
+**30/41 · 73%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -44,7 +44,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 | Day 4 | Hash Maps + Prefix + Intervals | 🔄 5/6 |
 | Day 5 | Linked List Mastery | 🔄 4/6 |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
-| Day 7 | Binary Search — All Patterns | 🔄 3/4 |
+| Day 7 | Binary Search — All Patterns | ✅ |
 | Day 8 | Binary Search — Hard Variants | ⬜ |
 | Day 9 | Phase 1 Consolidation + Sorting | 🔄 1/5 |
 
@@ -125,6 +125,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 | Day 7 | 2026-03-19 | 0 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 | Day 6 | 2026-03-18 | 7 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 | Day 7 | 2026-03-18 | 0 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 | Day 7 | 2026-03-18 | 0 |
@@ -190,4 +191,4 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 16%  •
 | 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 15:00:29 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 15:28:52 GMT*
