@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •  31/176 problems
+Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •  32/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **43** (31 roadmap · 12 extra) |
+| ✅ Total solved | **44** (32 roadmap · 12 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-03-19 |
 
@@ -34,7 +34,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**31/41 · 76%**
+**32/41 · 78%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -45,7 +45,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 | Day 5 | Linked List Mastery | 🔄 4/6 |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
-| Day 8 | Binary Search — Hard Variants | 🔄 1/4 |
+| Day 8 | Binary Search — Hard Variants | 🔄 2/4 |
 | Day 9 | Phase 1 Consolidation + Sorting | 🔄 1/5 |
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
@@ -126,6 +126,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 | Day 7 | 2026-03-19 | 0 |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 | Day 8 | 2026-03-19 | 0 |
 | 1011 | [Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 | Day 8 | 2026-03-19 | 12 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 | Day 6 | 2026-03-18 | 7 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 | Day 7 | 2026-03-18 | 0 |
@@ -199,4 +200,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 | 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 17:22:36 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 17:36:48 GMT*
