@@ -10,7 +10,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 17%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **41** (30 roadmap · 11 extra) |
+| ✅ Total solved | **42** (30 roadmap · 12 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-03-19 |
 
@@ -172,6 +172,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 17%  •
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 69 | [Sqrt(x)](./Extra-Problems/Binary_Search/69-sqrtx.cpp) | 🟢 | 2026-03-19 | — |
+| 367 | [Valid Perfect Square](./Extra-Problems/Binary_Search/367-valid-perfect-square.cpp) | 🟢 | 2026-03-19 | — |
 
 ### Linked List
 
@@ -197,4 +198,4 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 17%  •
 | 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 16:02:08 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 16:05:23 GMT*
