@@ -10,7 +10,7 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 17%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **40** (30 roadmap · 10 extra) |
+| ✅ Total solved | **41** (30 roadmap · 11 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-03-19 |
 
@@ -167,6 +167,12 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 17%  •
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
 | 735 | [Asteroid Collision](./Extra-Problems/Arrays/735-asteroid-collision.cpp) | 🟡 | 2026-03-19 | — |
 
+### Binary Search
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 69 | [Sqrt(x)](./Extra-Problems/Binary_Search/69-sqrtx.cpp) | 🟢 | 2026-03-19 | — |
+
 ### Linked List
 
 | # | Problem | Diff | Date | Note |
@@ -191,4 +197,4 @@ Roadmap  [███░░░░░░░░░░░░░░░░░] 17%  •
 | 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 15:28:52 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 19 Mar 2026 16:02:08 GMT*
