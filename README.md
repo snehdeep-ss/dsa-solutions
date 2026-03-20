@@ -10,7 +10,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **45** (32 roadmap · 13 extra) |
+| ✅ Total solved | **46** (32 roadmap · 14 extra) |
 | 🔥 Current streak | **4 days** |
 | 📅 Last updated | 2026-03-20 |
 
@@ -176,6 +176,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 | 69 | [Sqrt(x)](./Extra-Problems/Binary_Search/69-sqrtx.cpp) | 🟢 | 2026-03-19 | — |
 | 367 | [Valid Perfect Square](./Extra-Problems/Binary_Search/367-valid-perfect-square.cpp) | 🟢 | 2026-03-19 | — |
 | 1552 | [Magnetic Force Between Two Balls](./Extra-Problems/Binary_Search/1552-magnetic-force-between-two-balls.cpp) | 🟡 | 2026-03-20 | — |
+| 2064 | [Minimized Maximum of Products Distributed to Any Store](./Extra-Problems/Binary_Search/2064-minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 | 2026-03-20 | — |
 
 ### Linked List
 
@@ -201,4 +202,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 | 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 20 Mar 2026 18:04:09 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 20 Mar 2026 18:17:44 GMT*
