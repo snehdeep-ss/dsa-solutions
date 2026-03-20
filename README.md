@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •  32/176 problems
+Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •  33/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **46** (32 roadmap · 14 extra) |
+| ✅ Total solved | **47** (33 roadmap · 14 extra) |
 | 🔥 Current streak | **4 days** |
 | 📅 Last updated | 2026-03-20 |
 
@@ -34,7 +34,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**32/41 · 78%**
+**33/41 · 80%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -46,7 +46,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
 | Day 8 | Binary Search — Hard Variants | 🔄 2/4 |
-| Day 9 | Phase 1 Consolidation + Sorting | 🔄 1/5 |
+| Day 9 | Phase 1 Consolidation + Sorting | 🔄 2/5 |
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
@@ -125,6 +125,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 | Day 9 | 2026-03-20 | 0 |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 | Day 7 | 2026-03-19 | 0 |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 | Day 8 | 2026-03-19 | 0 |
 | 1011 | [Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 | Day 8 | 2026-03-19 | 12 |
@@ -202,4 +203,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 18%  •
 | 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 20 Mar 2026 18:17:44 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 20 Mar 2026 18:18:45 GMT*
