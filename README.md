@@ -178,6 +178,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •
 | 367 | [Valid Perfect Square](./Extra-Problems/Binary_Search/367-valid-perfect-square.cpp) | 🟢 | 2026-03-19 | — |
 | 1552 | [Magnetic Force Between Two Balls](./Extra-Problems/Binary_Search/1552-magnetic-force-between-two-balls.cpp) | 🟡 | 2026-03-20 | — |
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](./Extra-Problems/Binary_Search/2064-minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 | 2026-03-20 | — |
+| 1011 | [Capacity To Ship Packages Within D Days](./Extra-Problems/Binary_Search/1011-capacity-to-ship-packages-within-d-days.cpp) | 🟡 | 2026-03-20 | — |
 
 ### Linked List
 
@@ -196,11 +197,5 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./Extra-Problems/Sliding_Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | 🟡 | 2026-03-06 | — |
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
-### Two Pointers
-
-| # | Problem | Diff | Date | Note |
-|---|---------|------|------|------|
-| 42 | [Trapping Rain Water](./Extra-Problems/Two_Pointers/42-trapping-rain-water.cpp) | 🔴 | 2026-03-11 | — |
-
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 20 Mar 2026 18:18:45 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 20 Mar 2026 18:34:20 GMT*
