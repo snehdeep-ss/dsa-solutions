@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •  33/176 problems
+Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •  34/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **47** (33 roadmap · 14 extra) |
-| 🔥 Current streak | **4 days** |
-| 📅 Last updated | 2026-03-20 |
+| ✅ Total solved | **48** (34 roadmap · 14 extra) |
+| 🔥 Current streak | **5 days** |
+| 📅 Last updated | 2026-03-21 |
 
 ---
 
@@ -34,7 +34,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**33/41 · 80%**
+**34/41 · 83%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -42,7 +42,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •
 | Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | ✅ |
 | Day 4 | Hash Maps + Prefix + Intervals | 🔄 5/6 |
-| Day 5 | Linked List Mastery | 🔄 4/6 |
+| Day 5 | Linked List Mastery | 🔄 5/6 |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
 | Day 8 | Binary Search — Hard Variants | 🔄 2/4 |
@@ -125,6 +125,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 | Day 5 | 2026-03-21 | 0 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 | Day 9 | 2026-03-20 | 0 |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 | Day 7 | 2026-03-19 | 0 |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 | Day 8 | 2026-03-19 | 0 |
@@ -198,4 +199,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 19%  •
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 20 Mar 2026 18:34:20 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 07:22:20 GMT*
