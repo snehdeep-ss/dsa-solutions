@@ -10,7 +10,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **53** (38 roadmap · 15 extra) |
+| ✅ Total solved | **54** (38 roadmap · 16 extra) |
 | 🔥 Current streak | **5 days** |
 | 📅 Last updated | 2026-03-21 |
 
@@ -185,6 +185,12 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](./Extra-Problems/Binary_Search/2064-minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 | 2026-03-20 | — |
 | 1011 | [Capacity To Ship Packages Within D Days](./Extra-Problems/Binary_Search/1011-capacity-to-ship-packages-within-d-days.cpp) | 🟡 | 2026-03-20 | — |
 
+### Greedy
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 55 | [Jump Game](./Extra-Problems/Greedy/55-jump-game.cpp) | 🟡 | 2026-03-21 | — |
+
 ### Linked List
 
 | # | Problem | Diff | Date | Note |
@@ -209,4 +215,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 12:44:22 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 12:56:42 GMT*
