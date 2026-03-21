@@ -10,7 +10,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **49** (35 roadmap · 14 extra) |
+| ✅ Total solved | **50** (35 roadmap · 15 extra) |
 | 🔥 Current streak | **5 days** |
 | 📅 Last updated | 2026-03-21 |
 
@@ -199,5 +199,11 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./Extra-Problems/Sliding_Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | 🟡 | 2026-03-06 | — |
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
+### Trees
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
+
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 07:32:55 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 08:38:57 GMT*
