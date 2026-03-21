@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •  35/176 problems
+Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •  36/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **50** (35 roadmap · 15 extra) |
+| ✅ Total solved | **51** (36 roadmap · 15 extra) |
 | 🔥 Current streak | **5 days** |
 | 📅 Last updated | 2026-03-21 |
 
@@ -34,7 +34,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**35/41 · 85%**
+**36/41 · 88%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -46,7 +46,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
 | Day 8 | Binary Search — Hard Variants | 🔄 2/4 |
-| Day 9 | Phase 1 Consolidation + Sorting | 🔄 3/5 |
+| Day 9 | Phase 1 Consolidation + Sorting | 🔄 4/5 |
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
@@ -127,6 +127,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 |---|---------|------|-----|------|---------|
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 | Day 5 | 2026-03-21 | 0 |
 | 215 | [Kth Largest Element in Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 | Day 9 | 2026-03-21 | 38 |
+| 448 | [Find All Missing Numbers](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 | Day 9 | 2026-03-21 | 4 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 | Day 9 | 2026-03-20 | 0 |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 | Day 7 | 2026-03-19 | 0 |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 | Day 8 | 2026-03-19 | 0 |
@@ -206,4 +207,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 08:38:57 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 10:27:14 GMT*
