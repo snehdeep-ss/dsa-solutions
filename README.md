@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████░░░░░░░░░░░░░░░░] 21%  •  37/176 problems
+Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •  38/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **52** (37 roadmap · 15 extra) |
+| ✅ Total solved | **53** (38 roadmap · 15 extra) |
 | 🔥 Current streak | **5 days** |
 | 📅 Last updated | 2026-03-21 |
 
@@ -34,14 +34,14 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 21%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**37/41 · 90%**
+**38/41 · 93%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Arrays Deep Dive + Language Setup | ✅ |
 | Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | ✅ |
-| Day 4 | Hash Maps + Prefix + Intervals | 🔄 5/6 |
+| Day 4 | Hash Maps + Prefix + Intervals | ✅ |
 | Day 5 | Linked List Mastery | ✅ |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
@@ -125,6 +125,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 21%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 | Day 4 | 2026-03-21 | 1 |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 | Day 5 | 2026-03-21 | 46 |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 | Day 5 | 2026-03-21 | 0 |
 | 215 | [Kth Largest Element in Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 | Day 9 | 2026-03-21 | 38 |
@@ -208,4 +209,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 21%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 10:50:42 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 12:44:22 GMT*
