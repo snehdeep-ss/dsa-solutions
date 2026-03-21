@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •  36/176 problems
+Roadmap  [████░░░░░░░░░░░░░░░░] 21%  •  37/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **51** (36 roadmap · 15 extra) |
+| ✅ Total solved | **52** (37 roadmap · 15 extra) |
 | 🔥 Current streak | **5 days** |
 | 📅 Last updated | 2026-03-21 |
 
@@ -34,7 +34,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**36/41 · 88%**
+**37/41 · 90%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -42,7 +42,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 | Day 2 | Two Pointer Pattern | ✅ |
 | Day 3 | Sliding Window Pattern | ✅ |
 | Day 4 | Hash Maps + Prefix + Intervals | 🔄 5/6 |
-| Day 5 | Linked List Mastery | 🔄 5/6 |
+| Day 5 | Linked List Mastery | ✅ |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
 | Day 8 | Binary Search — Hard Variants | 🔄 2/4 |
@@ -125,6 +125,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 | Day 5 | 2026-03-21 | 46 |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 | Day 5 | 2026-03-21 | 0 |
 | 215 | [Kth Largest Element in Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 | Day 9 | 2026-03-21 | 38 |
 | 448 | [Find All Missing Numbers](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 | Day 9 | 2026-03-21 | 4 |
@@ -207,4 +208,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 20%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 10:27:14 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 10:50:42 GMT*
