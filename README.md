@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •  40/176 problems
+Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •  41/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **60** (40 roadmap · 20 extra) |
+| ✅ Total solved | **61** (41 roadmap · 20 extra) |
 | 🔥 Current streak | **6 days** |
 | 📅 Last updated | 2026-03-22 |
 
@@ -34,7 +34,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**39/41 · 95%**
+**40/41 · 98%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -45,7 +45,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | Day 5 | Linked List Mastery | ✅ |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
-| Day 8 | Binary Search — Hard Variants | 🔄 2/4 |
+| Day 8 | Binary Search — Hard Variants | 🔄 3/4 |
 | Day 9 | Phase 1 Consolidation + Sorting | ✅ |
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
@@ -125,6 +125,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 | Day 8 | 2026-03-22 | 0 |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 | Day 10 | 2026-03-22 | 0 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 | Day 4 | 2026-03-21 | 1 |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 | Day 5 | 2026-03-21 | 46 |
@@ -226,4 +227,4 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 11:46:29 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 12:54:57 GMT*
