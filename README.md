@@ -10,7 +10,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **56** (40 roadmap · 16 extra) |
+| ✅ Total solved | **57** (40 roadmap · 17 extra) |
 | 🔥 Current streak | **6 days** |
 | 📅 Last updated | 2026-03-22 |
 
@@ -176,6 +176,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 |---|---------|------|------|------|
 | 2367 | [Number of Arithmetic Triplets](./Extra-Problems/Arrays/2367-number-of-arithmetic-triplets.cpp) | 🟢 | 2026-03-04 | — |
 | 735 | [Asteroid Collision](./Extra-Problems/Arrays/735-asteroid-collision.cpp) | 🟡 | 2026-03-19 | — |
+| 414 | [Third Maximum Number](./Extra-Problems/Arrays/414-third-maximum-number.cpp) | 🟢 | 2026-03-22 | — |
 
 ### Binary Search
 
@@ -217,4 +218,4 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 10:57:46 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 11:08:00 GMT*
