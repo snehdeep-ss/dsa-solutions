@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •  39/176 problems
+Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •  40/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **55** (39 roadmap · 16 extra) |
-| 🔥 Current streak | **5 days** |
-| 📅 Last updated | 2026-03-21 |
+| ✅ Total solved | **56** (40 roadmap · 16 extra) |
+| 🔥 Current streak | **6 days** |
+| 📅 Last updated | 2026-03-22 |
 
 ---
 
@@ -50,11 +50,11 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**0/44 · 0%**
+**1/44 · 2%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 10 | Recursion Masterclass | ⬜ |
+| Day 10 | Recursion Masterclass | 🔄 1/5 |
 | Day 11 | Binary Tree — Traversals & DFS | ⬜ |
 | Day 12 | BFS on Trees + Level Order | ⬜ |
 | Day 13 | Tree — Paths, LCA, Views | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 | Day 10 | 2026-03-22 | 0 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 | Day 4 | 2026-03-21 | 1 |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 | Day 5 | 2026-03-21 | 46 |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 | Day 5 | 2026-03-21 | 0 |
@@ -216,4 +217,4 @@ Roadmap  [████░░░░░░░░░░░░░░░░] 22%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 21 Mar 2026 13:25:17 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 10:57:46 GMT*
