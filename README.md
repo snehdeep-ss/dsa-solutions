@@ -10,7 +10,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **58** (40 roadmap · 18 extra) |
+| ✅ Total solved | **59** (40 roadmap · 19 extra) |
 | 🔥 Current streak | **6 days** |
 | 📅 Last updated | 2026-03-22 |
 
@@ -199,6 +199,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 973 | [K Closest Points to Origin](./Extra-Problems/Heap/973-k-closest-points-to-origin.cpp) | 🟡 | 2026-03-22 | — |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](./Extra-Problems/Heap/2099-find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 | 2026-03-22 | — |
 
 ### Linked List
 
@@ -224,4 +225,4 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 11:19:07 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 11:38:40 GMT*
