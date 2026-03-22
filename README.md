@@ -10,7 +10,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **57** (40 roadmap · 17 extra) |
+| ✅ Total solved | **58** (40 roadmap · 18 extra) |
 | 🔥 Current streak | **6 days** |
 | 📅 Last updated | 2026-03-22 |
 
@@ -194,6 +194,12 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 |---|---------|------|------|------|
 | 55 | [Jump Game](./Extra-Problems/Greedy/55-jump-game.cpp) | 🟡 | 2026-03-21 | — |
 
+### Heap
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 973 | [K Closest Points to Origin](./Extra-Problems/Heap/973-k-closest-points-to-origin.cpp) | 🟡 | 2026-03-22 | — |
+
 ### Linked List
 
 | # | Problem | Diff | Date | Note |
@@ -218,4 +224,4 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 11:08:00 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 11:19:07 GMT*
