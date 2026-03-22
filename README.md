@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •  41/176 problems
+Roadmap  [█████░░░░░░░░░░░░░░░] 24%  •  42/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **61** (41 roadmap · 20 extra) |
+| ✅ Total solved | **62** (42 roadmap · 20 extra) |
 | 🔥 Current streak | **6 days** |
 | 📅 Last updated | 2026-03-22 |
 
@@ -50,7 +50,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**1/44 · 2%**
+**2/44 · 5%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -60,7 +60,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | Day 13 | Tree — Paths, LCA, Views | ⬜ |
 | Day 14 | BST — Operations & Patterns | ⬜ |
 | Day 15 | Advanced Tree Problems | ⬜ |
-| Day 16 | Heaps / Priority Queue | ⬜ |
+| Day 16 | Heaps / Priority Queue | 🔄 1/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | ⬜ |
 | Day 18 | Queues + Deque Patterns | ⬜ |
 | Day 19 | Trees + Heap — Mixed Hard Problems | ⬜ |
@@ -127,6 +127,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 |---|---------|------|-----|------|---------|
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 | Day 8 | 2026-03-22 | 0 |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 | Day 10 | 2026-03-22 | 0 |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 | Day 16 | 2026-03-22 | 902 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 | Day 4 | 2026-03-21 | 1 |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 | Day 5 | 2026-03-21 | 46 |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 | Day 5 | 2026-03-21 | 0 |
@@ -227,4 +228,4 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 23%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 12:54:57 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 12:58:40 GMT*
