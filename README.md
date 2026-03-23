@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████░░░░░░░░░░░░░░░] 24%  •  42/176 problems
+Roadmap  [█████░░░░░░░░░░░░░░░] 24%  •  43/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **62** (42 roadmap · 20 extra) |
-| 🔥 Current streak | **6 days** |
-| 📅 Last updated | 2026-03-22 |
+| ✅ Total solved | **63** (43 roadmap · 20 extra) |
+| 🔥 Current streak | **7 days** |
+| 📅 Last updated | 2026-03-23 |
 
 ---
 
@@ -50,11 +50,11 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 24%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**2/44 · 5%**
+**3/44 · 7%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 10 | Recursion Masterclass | 🔄 1/5 |
+| Day 10 | Recursion Masterclass | 🔄 2/5 |
 | Day 11 | Binary Tree — Traversals & DFS | ⬜ |
 | Day 12 | BFS on Trees + Level Order | ⬜ |
 | Day 13 | Tree — Paths, LCA, Views | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 24%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 | Day 10 | 2026-03-23 | 1 |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 | Day 8 | 2026-03-22 | 0 |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 | Day 10 | 2026-03-22 | 0 |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 | Day 16 | 2026-03-22 | 902 |
@@ -228,4 +229,4 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 24%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 22 Mar 2026 12:58:40 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 23 Mar 2026 17:35:49 GMT*
