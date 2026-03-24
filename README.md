@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████░░░░░░░░░░░░░░░] 26%  •  46/176 problems
+Roadmap  [█████░░░░░░░░░░░░░░░] 27%  •  47/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **66** (46 roadmap · 20 extra) |
-| 🔥 Current streak | **7 days** |
-| 📅 Last updated | 2026-03-23 |
+| ✅ Total solved | **67** (47 roadmap · 20 extra) |
+| 🔥 Current streak | **8 days** |
+| 📅 Last updated | 2026-03-24 |
 
 ---
 
@@ -50,7 +50,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 26%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**6/44 · 14%**
+**7/44 · 16%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -60,7 +60,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 26%  •
 | Day 13 | Tree — Paths, LCA, Views | ⬜ |
 | Day 14 | BST — Operations & Patterns | ⬜ |
 | Day 15 | Advanced Tree Problems | ⬜ |
-| Day 16 | Heaps / Priority Queue | 🔄 1/4 |
+| Day 16 | Heaps / Priority Queue | 🔄 2/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | ⬜ |
 | Day 18 | Queues + Deque Patterns | ⬜ |
 | Day 19 | Trees + Heap — Mixed Hard Problems | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 26%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 703 | [Kth Largest Element in Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 | Day 16 | 2026-03-24 | 0 |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 | Day 10 | 2026-03-23 | 1 |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 | Day 10 | 2026-03-23 | 1 |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 | Day 10 | 2026-03-23 | 0 |
@@ -232,4 +233,4 @@ Roadmap  [█████░░░░░░░░░░░░░░░] 26%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 23 Mar 2026 17:56:11 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 24 Mar 2026 17:31:30 GMT*
