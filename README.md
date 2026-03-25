@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████░░░░░░░░░░░░░░] 29%  •  51/176 problems
+Roadmap  [██████░░░░░░░░░░░░░░] 30%  •  52/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **71** (51 roadmap · 20 extra) |
+| ✅ Total solved | **72** (52 roadmap · 20 extra) |
 | 🔥 Current streak | **9 days** |
 | 📅 Last updated | 2026-03-25 |
 
@@ -50,12 +50,12 @@ Roadmap  [██████░░░░░░░░░░░░░░] 29%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**11/44 · 25%**
+**12/44 · 27%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 10 | Recursion Masterclass | 🔄 4/5 |
-| Day 11 | Binary Tree — Traversals & DFS | 🔄 2/5 |
+| Day 11 | Binary Tree — Traversals & DFS | 🔄 3/5 |
 | Day 12 | BFS on Trees + Level Order | ⬜ |
 | Day 13 | Tree — Paths, LCA, Views | ⬜ |
 | Day 14 | BST — Operations & Patterns | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [██████░░░░░░░░░░░░░░] 29%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 | Day 11 | 2026-03-25 | 0 |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 | Day 11 | 2026-03-25 | 0 |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 | Day 17 | 2026-03-25 | 0 |
 | 1 | [Two Sum (re-attempt from memory)](https://leetcode.com/problems/two-sum/) | 🟢 | Day 20 | 2026-03-25 | 6 |
 | 703 | [Kth Largest Element in Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 | Day 16 | 2026-03-24 | 0 |
@@ -237,4 +238,4 @@ Roadmap  [██████░░░░░░░░░░░░░░] 29%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 25 Mar 2026 15:17:34 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 25 Mar 2026 15:31:46 GMT*
