@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████░░░░░░░░░░░░░░] 31%  •  55/176 problems
+Roadmap  [██████░░░░░░░░░░░░░░] 32%  •  56/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **80** (55 roadmap · 25 extra) |
+| ✅ Total solved | **81** (56 roadmap · 25 extra) |
 | 🔥 Current streak | **10 days** |
 | 📅 Last updated | 2026-03-26 |
 
@@ -50,12 +50,12 @@ Roadmap  [██████░░░░░░░░░░░░░░] 31%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**15/44 · 34%**
+**16/44 · 36%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 10 | Recursion Masterclass | 🔄 4/5 |
-| Day 11 | Binary Tree — Traversals & DFS | 🔄 4/5 |
+| Day 11 | Binary Tree — Traversals & DFS | ✅ |
 | Day 12 | BFS on Trees + Level Order | 🔄 1/4 |
 | Day 13 | Tree — Paths, LCA, Views | 🔄 1/5 |
 | Day 14 | BST — Operations & Patterns | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [██████░░░░░░░░░░░░░░] 31%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 | Day 11 | 2026-03-26 | 0 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | Day 12 | 2026-03-26 | 0 |
 | 236 | [LCA of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 | Day 13 | 2026-03-26 | 3 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | Day 11 | 2026-03-25 | 0 |
@@ -251,4 +252,4 @@ Roadmap  [██████░░░░░░░░░░░░░░] 31%  •
 | 111 | [Minimum Depth of Binary Tree](./Extra-Problems/Trees/111-minimum-depth-of-binary-tree.cpp) | 🟢 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 10:01:24 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 10:34:35 GMT*
