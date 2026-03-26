@@ -10,7 +10,7 @@ Roadmap  [██████░░░░░░░░░░░░░░] 31%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **75** (54 roadmap · 21 extra) |
+| ✅ Total solved | **76** (54 roadmap · 22 extra) |
 | 🔥 Current streak | **10 days** |
 | 📅 Last updated | 2026-03-26 |
 
@@ -233,6 +233,12 @@ Roadmap  [██████░░░░░░░░░░░░░░] 31%  •
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./Extra-Problems/Sliding_Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | 🟡 | 2026-03-06 | — |
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
+### String
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 257 | [Binary Tree Paths](./Extra-Problems/String/257-binary-tree-paths.cpp) | 🟢 | 2026-03-26 | — |
+
 ### Trees
 
 | # | Problem | Diff | Date | Note |
@@ -241,4 +247,4 @@ Roadmap  [██████░░░░░░░░░░░░░░] 31%  •
 | 112 | [Path Sum](./Extra-Problems/Trees/112-path-sum.cpp) | 🟢 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 07:10:09 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 08:10:54 GMT*
