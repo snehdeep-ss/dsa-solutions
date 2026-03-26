@@ -10,7 +10,7 @@ Roadmap  [██████░░░░░░░░░░░░░░] 32%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **82** (56 roadmap · 26 extra) |
+| ✅ Total solved | **83** (56 roadmap · 27 extra) |
 | 🔥 Current streak | **10 days** |
 | 📅 Last updated | 2026-03-26 |
 
@@ -251,6 +251,7 @@ Roadmap  [██████░░░░░░░░░░░░░░] 32%  •
 | 199 | [Binary Tree Right Side View](./Extra-Problems/Trees/199-binary-tree-right-side-view.cpp) | 🟡 | 2026-03-26 | — |
 | 111 | [Minimum Depth of Binary Tree](./Extra-Problems/Trees/111-minimum-depth-of-binary-tree.cpp) | 🟢 | 2026-03-26 | — |
 | 700 | [Search in a Binary Search Tree](./Extra-Problems/Trees/700-search-in-a-binary-search-tree.cpp) | 🟢 | 2026-03-26 | — |
+| 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 10:45:31 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 10:50:09 GMT*
