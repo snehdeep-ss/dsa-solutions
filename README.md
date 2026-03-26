@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████░░░░░░░░░░░░░] 34%  •  59/176 problems
+Roadmap  [███████░░░░░░░░░░░░░] 34%  •  60/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **86** (59 roadmap · 27 extra) |
+| ✅ Total solved | **87** (60 roadmap · 27 extra) |
 | 🔥 Current streak | **10 days** |
 | 📅 Last updated | 2026-03-26 |
 
@@ -50,7 +50,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 34%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**19/44 · 43%**
+**20/44 · 45%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -58,7 +58,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 34%  •
 | Day 11 | Binary Tree — Traversals & DFS | ✅ |
 | Day 12 | BFS on Trees + Level Order | 🔄 1/4 |
 | Day 13 | Tree — Paths, LCA, Views | 🔄 2/5 |
-| Day 14 | BST — Operations & Patterns | 🔄 2/6 |
+| Day 14 | BST — Operations & Patterns | 🔄 3/6 |
 | Day 15 | Advanced Tree Problems | ⬜ |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | 🔄 2/3 |
@@ -129,6 +129,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 34%  •
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | Day 12 | 2026-03-26 | 0 |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 | Day 13 | 2026-03-26 | 14 |
 | 236 | [LCA of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 | Day 13 | 2026-03-26 | 3 |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 | Day 14 | 2026-03-26 | 0 |
 | 450 | [Delete Node in BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 | Day 14 | 2026-03-26 | 0 |
 | 235 | [LCA of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 | Day 14 | 2026-03-26 | 31 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | Day 11 | 2026-03-25 | 0 |
@@ -257,4 +258,4 @@ Roadmap  [███████░░░░░░░░░░░░░] 34%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 12:15:15 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 12:19:09 GMT*
