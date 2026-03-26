@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████░░░░░░░░░░░░░░] 32%  •  57/176 problems
+Roadmap  [███████░░░░░░░░░░░░░] 33%  •  58/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **84** (57 roadmap · 27 extra) |
+| ✅ Total solved | **85** (58 roadmap · 27 extra) |
 | 🔥 Current streak | **10 days** |
 | 📅 Last updated | 2026-03-26 |
 
@@ -50,14 +50,14 @@ Roadmap  [██████░░░░░░░░░░░░░░] 32%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**17/44 · 39%**
+**18/44 · 41%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 10 | Recursion Masterclass | 🔄 4/5 |
 | Day 11 | Binary Tree — Traversals & DFS | ✅ |
 | Day 12 | BFS on Trees + Level Order | 🔄 1/4 |
-| Day 13 | Tree — Paths, LCA, Views | 🔄 1/5 |
+| Day 13 | Tree — Paths, LCA, Views | 🔄 2/5 |
 | Day 14 | BST — Operations & Patterns | 🔄 1/6 |
 | Day 15 | Advanced Tree Problems | ⬜ |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
@@ -127,6 +127,7 @@ Roadmap  [██████░░░░░░░░░░░░░░] 32%  •
 |---|---------|------|-----|------|---------|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 | Day 11 | 2026-03-26 | 0 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | Day 12 | 2026-03-26 | 0 |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 | Day 13 | 2026-03-26 | 14 |
 | 236 | [LCA of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 | Day 13 | 2026-03-26 | 3 |
 | 235 | [LCA of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 | Day 14 | 2026-03-26 | 31 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | Day 11 | 2026-03-25 | 0 |
@@ -255,4 +256,4 @@ Roadmap  [██████░░░░░░░░░░░░░░] 32%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 11:04:30 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 11:13:01 GMT*
