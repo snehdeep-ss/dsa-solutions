@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████░░░░░░░░░░░░░] 35%  •  61/176 problems
+Roadmap  [███████░░░░░░░░░░░░░] 35%  •  62/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **88** (61 roadmap · 27 extra) |
-| 🔥 Current streak | **10 days** |
-| 📅 Last updated | 2026-03-26 |
+| ✅ Total solved | **89** (62 roadmap · 27 extra) |
+| 🔥 Current streak | **11 days** |
+| 📅 Last updated | 2026-03-27 |
 
 ---
 
@@ -83,11 +83,11 @@ Roadmap  [███████░░░░░░░░░░░░░] 35%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**0/38 · 0%**
+**1/38 · 3%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 29 | DP Foundations — 1D Patterns | ⬜ |
+| Day 29 | DP Foundations — 1D Patterns | 🔄 1/5 |
 | Day 30 | 0/1 Knapsack & Subset Sum | ⬜ |
 | Day 31 | Unbounded Knapsack & Coin Change | ⬜ |
 | Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 35%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 | Day 29 | 2026-03-27 | 0 |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 | Day 11 | 2026-03-26 | 0 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | Day 12 | 2026-03-26 | 0 |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 | Day 13 | 2026-03-26 | 14 |
@@ -259,4 +260,4 @@ Roadmap  [███████░░░░░░░░░░░░░] 35%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 26 Mar 2026 12:52:54 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 27 Mar 2026 18:20:45 GMT*
