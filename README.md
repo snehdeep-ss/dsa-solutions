@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████░░░░░░░░░░░░░] 36%  •  63/176 problems
+Roadmap  [███████░░░░░░░░░░░░░] 36%  •  64/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **90** (63 roadmap · 27 extra) |
-| 🔥 Current streak | **11 days** |
-| 📅 Last updated | 2026-03-27 |
+| ✅ Total solved | **91** (64 roadmap · 27 extra) |
+| 🔥 Current streak | **12 days** |
+| 📅 Last updated | 2026-03-28 |
 
 ---
 
@@ -50,7 +50,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 36%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**22/44 · 50%**
+**23/44 · 52%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -58,7 +58,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 36%  •
 | Day 11 | Binary Tree — Traversals & DFS | ✅ |
 | Day 12 | BFS on Trees + Level Order | 🔄 1/4 |
 | Day 13 | Tree — Paths, LCA, Views | 🔄 2/5 |
-| Day 14 | BST — Operations & Patterns | 🔄 4/6 |
+| Day 14 | BST — Operations & Patterns | 🔄 5/6 |
 | Day 15 | Advanced Tree Problems | ⬜ |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | 🔄 2/3 |
@@ -125,6 +125,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 36%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 108 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 | Day 14 | 2026-03-28 | 0 |
 | 17 | [Letter Combinations of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 | Day 10 | 2026-03-27 | 0 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 | Day 29 | 2026-03-27 | 0 |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 | Day 11 | 2026-03-26 | 0 |
@@ -261,4 +262,4 @@ Roadmap  [███████░░░░░░░░░░░░░] 36%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 27 Mar 2026 18:26:26 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 28 Mar 2026 18:01:08 GMT*
