@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████░░░░░░░░░░░░░] 36%  •  64/176 problems
+Roadmap  [███████░░░░░░░░░░░░░] 37%  •  65/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **91** (64 roadmap · 27 extra) |
+| ✅ Total solved | **92** (65 roadmap · 27 extra) |
 | 🔥 Current streak | **12 days** |
 | 📅 Last updated | 2026-03-28 |
 
@@ -83,11 +83,11 @@ Roadmap  [███████░░░░░░░░░░░░░] 36%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**1/38 · 3%**
+**2/38 · 5%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 29 | DP Foundations — 1D Patterns | 🔄 1/5 |
+| Day 29 | DP Foundations — 1D Patterns | 🔄 2/5 |
 | Day 30 | 0/1 Knapsack & Subset Sum | ⬜ |
 | Day 31 | Unbounded Knapsack & Coin Change | ⬜ |
 | Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 36%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 108 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 | Day 14 | 2026-03-28 | 0 |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 | Day 29 | 2026-03-28 | 0 |
 | 17 | [Letter Combinations of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 | Day 10 | 2026-03-27 | 0 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 | Day 29 | 2026-03-27 | 0 |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 | Day 11 | 2026-03-26 | 0 |
@@ -262,4 +263,4 @@ Roadmap  [███████░░░░░░░░░░░░░] 36%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 28 Mar 2026 18:01:08 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 28 Mar 2026 18:17:53 GMT*
