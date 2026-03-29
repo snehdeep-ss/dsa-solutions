@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████░░░░░░░░░░░░░] 37%  •  65/176 problems
+Roadmap  [████████░░░░░░░░░░░░] 38%  •  66/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **92** (65 roadmap · 27 extra) |
-| 🔥 Current streak | **12 days** |
-| 📅 Last updated | 2026-03-28 |
+| ✅ Total solved | **93** (66 roadmap · 27 extra) |
+| 🔥 Current streak | **13 days** |
+| 📅 Last updated | 2026-03-29 |
 
 ---
 
@@ -34,7 +34,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 37%  •
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**40/41 · 98%**
+**41/41 · 100%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -45,7 +45,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 37%  •
 | Day 5 | Linked List Mastery | ✅ |
 | Day 6 | Stacks + Monotonic Stack | ✅ |
 | Day 7 | Binary Search — All Patterns | ✅ |
-| Day 8 | Binary Search — Hard Variants | 🔄 3/4 |
+| Day 8 | Binary Search — Hard Variants | ✅ |
 | Day 9 | Phase 1 Consolidation + Sorting | ✅ |
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
@@ -125,6 +125,7 @@ Roadmap  [███████░░░░░░░░░░░░░] 37%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 | Day 8 | 2026-03-29 | 0 |
 | 108 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 | Day 14 | 2026-03-28 | 0 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 | Day 29 | 2026-03-28 | 0 |
 | 17 | [Letter Combinations of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 | Day 10 | 2026-03-27 | 0 |
@@ -263,4 +264,4 @@ Roadmap  [███████░░░░░░░░░░░░░] 37%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 28 Mar 2026 18:17:53 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 10:55:09 GMT*
