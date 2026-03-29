@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████░░░░░░░░░░░░] 38%  •  67/176 problems
+Roadmap  [████████░░░░░░░░░░░░] 39%  •  68/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **94** (67 roadmap · 27 extra) |
+| ✅ Total solved | **95** (68 roadmap · 27 extra) |
 | 🔥 Current streak | **13 days** |
 | 📅 Last updated | 2026-03-29 |
 
@@ -50,13 +50,13 @@ Roadmap  [████████░░░░░░░░░░░░] 38%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**24/44 · 55%**
+**25/44 · 57%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 10 | Recursion Masterclass | ✅ |
 | Day 11 | Binary Tree — Traversals & DFS | ✅ |
-| Day 12 | BFS on Trees + Level Order | 🔄 2/4 |
+| Day 12 | BFS on Trees + Level Order | 🔄 3/4 |
 | Day 13 | Tree — Paths, LCA, Views | 🔄 2/5 |
 | Day 14 | BST — Operations & Patterns | 🔄 5/6 |
 | Day 15 | Advanced Tree Problems | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [████████░░░░░░░░░░░░] 38%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 | Day 8 | 2026-03-29 | 0 |
+| 103 | [Binary Tree Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 | Day 12 | 2026-03-29 | 0 |
 | 116 | [Populating Next Right Pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 | Day 12 | 2026-03-29 | 8 |
 | 108 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 | Day 14 | 2026-03-28 | 0 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 | Day 29 | 2026-03-28 | 0 |
@@ -265,4 +266,4 @@ Roadmap  [████████░░░░░░░░░░░░] 38%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 11:39:38 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 12:06:32 GMT*
