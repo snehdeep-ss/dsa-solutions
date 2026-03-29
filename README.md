@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████░░░░░░░░░░░░] 39%  •  68/176 problems
+Roadmap  [████████░░░░░░░░░░░░] 40%  •  71/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **95** (68 roadmap · 27 extra) |
+| ✅ Total solved | **97** (71 roadmap · 26 extra) |
 | 🔥 Current streak | **13 days** |
 | 📅 Last updated | 2026-03-29 |
 
@@ -50,14 +50,14 @@ Roadmap  [████████░░░░░░░░░░░░] 39%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**25/44 · 57%**
+**28/44 · 64%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 10 | Recursion Masterclass | ✅ |
 | Day 11 | Binary Tree — Traversals & DFS | ✅ |
-| Day 12 | BFS on Trees + Level Order | 🔄 3/4 |
-| Day 13 | Tree — Paths, LCA, Views | 🔄 2/5 |
+| Day 12 | BFS on Trees + Level Order | ✅ |
+| Day 13 | Tree — Paths, LCA, Views | 🔄 4/5 |
 | Day 14 | BST — Operations & Patterns | 🔄 5/6 |
 | Day 15 | Advanced Tree Problems | ⬜ |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
@@ -126,8 +126,11 @@ Roadmap  [████████░░░░░░░░░░░░] 39%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 | Day 8 | 2026-03-29 | 0 |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 | Day 12 | 2026-03-29 | 0 |
 | 103 | [Binary Tree Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 | Day 12 | 2026-03-29 | 0 |
 | 116 | [Populating Next Right Pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 | Day 12 | 2026-03-29 | 8 |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 | Day 13 | 2026-03-29 | 0 |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 | Day 13 | 2026-03-29 | 0 |
 | 108 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 | Day 14 | 2026-03-28 | 0 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 | Day 29 | 2026-03-28 | 0 |
 | 17 | [Letter Combinations of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 | Day 10 | 2026-03-27 | 0 |
@@ -260,10 +263,9 @@ Roadmap  [████████░░░░░░░░░░░░] 39%  •
 | 703 | [Kth Largest Element in a Stream](./Extra-Problems/Trees/703-kth-largest-element-in-a-stream.cpp) | 🟢 | 2026-03-21 | — |
 | 112 | [Path Sum](./Extra-Problems/Trees/112-path-sum.cpp) | 🟢 | 2026-03-26 | — |
 | 100 | [Same Tree](./Extra-Problems/Trees/100-same-tree.cpp) | 🟢 | 2026-03-26 | — |
-| 199 | [Binary Tree Right Side View](./Extra-Problems/Trees/199-binary-tree-right-side-view.cpp) | 🟡 | 2026-03-26 | — |
 | 111 | [Minimum Depth of Binary Tree](./Extra-Problems/Trees/111-minimum-depth-of-binary-tree.cpp) | 🟢 | 2026-03-26 | — |
 | 700 | [Search in a Binary Search Tree](./Extra-Problems/Trees/700-search-in-a-binary-search-tree.cpp) | 🟢 | 2026-03-26 | — |
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 12:06:32 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 13:31:45 GMT*
