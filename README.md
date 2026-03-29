@@ -268,4 +268,4 @@ Roadmap  [████████░░░░░░░░░░░░] 40%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 13:31:45 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 13:33:45 GMT*
