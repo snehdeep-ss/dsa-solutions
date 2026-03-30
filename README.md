@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████░░░░░░░░░░░░] 41%  •  73/176 problems
+Roadmap  [████████░░░░░░░░░░░░] 42%  •  74/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **99** (73 roadmap · 26 extra) |
+| ✅ Total solved | **100** (74 roadmap · 26 extra) |
 | 🔥 Current streak | **14 days** |
 | 📅 Last updated | 2026-03-30 |
 
@@ -83,11 +83,11 @@ Roadmap  [████████░░░░░░░░░░░░] 41%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**2/38 · 5%**
+**3/38 · 8%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 29 | DP Foundations — 1D Patterns | 🔄 2/5 |
+| Day 29 | DP Foundations — 1D Patterns | 🔄 3/5 |
 | Day 30 | 0/1 Knapsack & Subset Sum | ⬜ |
 | Day 31 | Unbounded Knapsack & Coin Change | ⬜ |
 | Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [████████░░░░░░░░░░░░] 41%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 99 | [Recover BST](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 | Day 14 | 2026-03-30 | 0 |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 🟡 | Day 29 | 2026-03-30 | 0 |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 | Day 8 | 2026-03-29 | 0 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 | Day 12 | 2026-03-29 | 0 |
 | 103 | [Binary Tree Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 | Day 12 | 2026-03-29 | 0 |
@@ -270,4 +271,4 @@ Roadmap  [████████░░░░░░░░░░░░] 41%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 30 Mar 2026 15:14:52 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 30 Mar 2026 15:36:35 GMT*
