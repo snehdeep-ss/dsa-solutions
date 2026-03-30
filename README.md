@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████░░░░░░░░░░░░] 41%  •  72/176 problems
+Roadmap  [████████░░░░░░░░░░░░] 41%  •  73/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **98** (72 roadmap · 26 extra) |
-| 🔥 Current streak | **13 days** |
-| 📅 Last updated | 2026-03-29 |
+| ✅ Total solved | **99** (73 roadmap · 26 extra) |
+| 🔥 Current streak | **14 days** |
+| 📅 Last updated | 2026-03-30 |
 
 ---
 
@@ -50,7 +50,7 @@ Roadmap  [████████░░░░░░░░░░░░] 41%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**29/44 · 66%**
+**30/44 · 68%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -58,7 +58,7 @@ Roadmap  [████████░░░░░░░░░░░░] 41%  •
 | Day 11 | Binary Tree — Traversals & DFS | ✅ |
 | Day 12 | BFS on Trees + Level Order | ✅ |
 | Day 13 | Tree — Paths, LCA, Views | ✅ |
-| Day 14 | BST — Operations & Patterns | 🔄 5/6 |
+| Day 14 | BST — Operations & Patterns | ✅ |
 | Day 15 | Advanced Tree Problems | ⬜ |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | 🔄 2/3 |
@@ -125,6 +125,7 @@ Roadmap  [████████░░░░░░░░░░░░] 41%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 99 | [Recover BST](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 | Day 14 | 2026-03-30 | 0 |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 | Day 8 | 2026-03-29 | 0 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 | Day 12 | 2026-03-29 | 0 |
 | 103 | [Binary Tree Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 | Day 12 | 2026-03-29 | 0 |
@@ -269,4 +270,4 @@ Roadmap  [████████░░░░░░░░░░░░] 41%  •
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 29 Mar 2026 13:41:48 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 30 Mar 2026 15:14:52 GMT*
