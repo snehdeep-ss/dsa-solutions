@@ -10,7 +10,7 @@ Roadmap  [█████████░░░░░░░░░░░] 43%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **103** (76 roadmap · 27 extra) |
+| ✅ Total solved | **104** (76 roadmap · 28 extra) |
 | 🔥 Current streak | **15 days** |
 | 📅 Last updated | 2026-03-31 |
 
@@ -272,6 +272,7 @@ Roadmap  [█████████░░░░░░░░░░░] 43%  •
 | 700 | [Search in a Binary Search Tree](./Extra-Problems/Trees/700-search-in-a-binary-search-tree.cpp) | 🟢 | 2026-03-26 | — |
 | 701 | [Insert into a Binary Search Tree](./Extra-Problems/Trees/701-insert-into-a-binary-search-tree.cpp) | 🟡 | 2026-03-26 | — |
 | 173 | [Binary Search Tree Iterator](./Extra-Problems/Trees/173-binary-search-tree-iterator.cpp) | 🟡 | 2026-03-31 | — |
+| 101 | [Symmetric Tree](./Extra-Problems/Trees/101-symmetric-tree.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 31 Mar 2026 10:46:44 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 31 Mar 2026 11:17:12 GMT*
