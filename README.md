@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████░░░░░░░░░░░] 45%  •  79/176 problems
+Roadmap  [█████████░░░░░░░░░░░] 45%  •  80/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **108** (79 roadmap · 29 extra) |
+| ✅ Total solved | **109** (80 roadmap · 29 extra) |
 | 🔥 Current streak | **15 days** |
 | 📅 Last updated | 2026-03-31 |
 
@@ -50,7 +50,7 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**35/44 · 80%**
+**36/44 · 82%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -61,7 +61,7 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 | Day 14 | BST — Operations & Patterns | ✅ |
 | Day 15 | Advanced Tree Problems | ✅ |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
-| Day 17 | Heap — Task Scheduling & Greedy | 🔄 2/3 |
+| Day 17 | Heap — Task Scheduling & Greedy | ✅ |
 | Day 18 | Queues + Deque Patterns | ⬜ |
 | Day 19 | Trees + Heap — Mixed Hard Problems | ⬜ |
 | Day 20 | Phase 1+2 Full Review Day | ✅ |
@@ -129,6 +129,7 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 | 105 | [Construct BT from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 | Day 15 | 2026-03-31 | 7 |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 | Day 15 | 2026-03-31 | 0 |
 | 987 | [Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 🔴 | Day 15 | 2026-03-31 | 4 |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 | Day 17 | 2026-03-31 | 2 |
 | 200 | [Number of Islands (preview)](https://leetcode.com/problems/number-of-islands/) | 🟡 | Day 20 | 2026-03-31 | 21 |
 | 99 | [Recover BST](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 | Day 14 | 2026-03-30 | 0 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 🟡 | Day 29 | 2026-03-30 | 0 |
@@ -279,4 +280,4 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 31 Mar 2026 18:00:11 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 31 Mar 2026 18:26:57 GMT*
