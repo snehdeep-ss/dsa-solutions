@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████░░░░░░░░░░░] 43%  •  75/176 problems
+Roadmap  [█████████░░░░░░░░░░░] 43%  •  76/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **102** (75 roadmap · 27 extra) |
+| ✅ Total solved | **103** (76 roadmap · 27 extra) |
 | 🔥 Current streak | **15 days** |
 | 📅 Last updated | 2026-03-31 |
 
@@ -50,7 +50,7 @@ Roadmap  [█████████░░░░░░░░░░░] 43%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**31/44 · 70%**
+**32/44 · 73%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -59,7 +59,7 @@ Roadmap  [█████████░░░░░░░░░░░] 43%  •
 | Day 12 | BFS on Trees + Level Order | ✅ |
 | Day 13 | Tree — Paths, LCA, Views | ✅ |
 | Day 14 | BST — Operations & Patterns | ✅ |
-| Day 15 | Advanced Tree Problems | 🔄 1/4 |
+| Day 15 | Advanced Tree Problems | 🔄 2/4 |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | 🔄 2/3 |
 | Day 18 | Queues + Deque Patterns | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█████████░░░░░░░░░░░] 43%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 | Day 15 | 2026-03-31 | 25 |
 | 105 | [Construct BT from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 | Day 15 | 2026-03-31 | 7 |
 | 99 | [Recover BST](https://leetcode.com/problems/recover-binary-search-tree/) | 🟡 | Day 14 | 2026-03-30 | 0 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 🟡 | Day 29 | 2026-03-30 | 0 |
@@ -273,4 +274,4 @@ Roadmap  [█████████░░░░░░░░░░░] 43%  •
 | 173 | [Binary Search Tree Iterator](./Extra-Problems/Trees/173-binary-search-tree-iterator.cpp) | 🟡 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 31 Mar 2026 10:10:02 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 31 Mar 2026 10:46:44 GMT*
