@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████░░░░░░░░░░░] 45%  •  80/176 problems
+Roadmap  [█████████░░░░░░░░░░░] 46%  •  81/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **109** (80 roadmap · 29 extra) |
-| 🔥 Current streak | **15 days** |
-| 📅 Last updated | 2026-03-31 |
+| ✅ Total solved | **110** (81 roadmap · 29 extra) |
+| 🔥 Current streak | **16 days** |
+| 📅 Last updated | 2026-04-01 |
 
 ---
 
@@ -50,7 +50,7 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**36/44 · 82%**
+**37/44 · 84%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -63,7 +63,7 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | ✅ |
 | Day 18 | Queues + Deque Patterns | ⬜ |
-| Day 19 | Trees + Heap — Mixed Hard Problems | ⬜ |
+| Day 19 | Trees + Heap — Mixed Hard Problems | 🔄 1/4 |
 | Day 20 | Phase 1+2 Full Review Day | ✅ |
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
@@ -125,6 +125,7 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | 🟡 | Day 19 | 2026-04-01 | 0 |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 | Day 15 | 2026-03-31 | 25 |
 | 105 | [Construct BT from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 | Day 15 | 2026-03-31 | 7 |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 | Day 15 | 2026-03-31 | 0 |
@@ -280,4 +281,4 @@ Roadmap  [█████████░░░░░░░░░░░] 45%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 31 Mar 2026 18:26:57 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 01 Apr 2026 18:23:31 GMT*
