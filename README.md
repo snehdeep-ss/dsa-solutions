@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████░░░░░░░░░░░] 46%  •  81/176 problems
+Roadmap  [█████████░░░░░░░░░░░] 47%  •  82/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **110** (81 roadmap · 29 extra) |
-| 🔥 Current streak | **16 days** |
-| 📅 Last updated | 2026-04-01 |
+| ✅ Total solved | **111** (82 roadmap · 29 extra) |
+| 🔥 Current streak | **17 days** |
+| 📅 Last updated | 2026-04-02 |
 
 ---
 
@@ -68,11 +68,11 @@ Roadmap  [█████████░░░░░░░░░░░] 46%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**0/31 · 0%**
+**1/31 · 3%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 21 | Graph Foundations + BFS/DFS | ⬜ |
+| Day 21 | Graph Foundations + BFS/DFS | 🔄 1/4 |
 | Day 22 | Graph BFS — Shortest Path & Grids | ⬜ |
 | Day 23 | Topological Sort | ⬜ |
 | Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█████████░░░░░░░░░░░] 46%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 | Day 21 | 2026-04-02 | 21 |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | 🟡 | Day 19 | 2026-04-01 | 0 |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 | Day 15 | 2026-03-31 | 25 |
 | 105 | [Construct BT from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 | Day 15 | 2026-03-31 | 7 |
@@ -281,4 +282,4 @@ Roadmap  [█████████░░░░░░░░░░░] 46%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 01 Apr 2026 18:23:31 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 02 Apr 2026 18:18:22 GMT*
