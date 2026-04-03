@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████████░░░░░░░░░░] 48%  •  84/176 problems
+Roadmap  [██████████░░░░░░░░░░] 48%  •  85/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **113** (84 roadmap · 29 extra) |
-| 🔥 Current streak | **17 days** |
-| 📅 Last updated | 2026-04-02 |
+| ✅ Total solved | **114** (85 roadmap · 29 extra) |
+| 🔥 Current streak | **18 days** |
+| 📅 Last updated | 2026-04-03 |
 
 ---
 
@@ -68,11 +68,11 @@ Roadmap  [██████████░░░░░░░░░░] 48%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**3/31 · 10%**
+**4/31 · 13%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 21 | Graph Foundations + BFS/DFS | 🔄 3/4 |
+| Day 21 | Graph Foundations + BFS/DFS | ✅ |
 | Day 22 | Graph BFS — Shortest Path & Grids | ⬜ |
 | Day 23 | Topological Sort | ⬜ |
 | Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [██████████░░░░░░░░░░] 48%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 | Day 21 | 2026-04-03 | 0 |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 | Day 21 | 2026-04-02 | 21 |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 | Day 21 | 2026-04-02 | 0 |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 | Day 21 | 2026-04-02 | 0 |
@@ -284,4 +285,4 @@ Roadmap  [██████████░░░░░░░░░░] 48%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 02 Apr 2026 18:39:57 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 03 Apr 2026 18:00:10 GMT*
