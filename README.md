@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████████░░░░░░░░░░] 48%  •  85/176 problems
+Roadmap  [██████████░░░░░░░░░░] 49%  •  86/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **114** (85 roadmap · 29 extra) |
+| ✅ Total solved | **115** (86 roadmap · 29 extra) |
 | 🔥 Current streak | **18 days** |
 | 📅 Last updated | 2026-04-03 |
 
@@ -83,7 +83,7 @@ Roadmap  [██████████░░░░░░░░░░] 48%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**3/38 · 8%**
+**4/38 · 11%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -94,7 +94,7 @@ Roadmap  [██████████░░░░░░░░░░] 48%  •
 | Day 33 | String DP + Palindromes | ⬜ |
 | Day 34 | 2D Grid DP + Stock Problems | ⬜ |
 | Day 35 | Interval DP + Tree DP | ⬜ |
-| Day 36 | Backtracking Deep Dive | ⬜ |
+| Day 36 | Backtracking Deep Dive | 🔄 1/4 |
 | Day 37 | Backtracking — Hard Problems | ⬜ |
 
 ## 🟠 Phase 5: Advanced Topics
@@ -126,6 +126,7 @@ Roadmap  [██████████░░░░░░░░░░] 48%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 | Day 21 | 2026-04-03 | 0 |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 | Day 36 | 2026-04-03 | 2 |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 | Day 21 | 2026-04-02 | 21 |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 | Day 21 | 2026-04-02 | 0 |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 | Day 21 | 2026-04-02 | 0 |
@@ -285,4 +286,4 @@ Roadmap  [██████████░░░░░░░░░░] 48%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 03 Apr 2026 18:00:10 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 03 Apr 2026 18:21:56 GMT*
