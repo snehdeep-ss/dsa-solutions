@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████████░░░░░░░░░░] 49%  •  86/176 problems
+Roadmap  [███████████░░░░░░░░░] 53%  •  93/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **115** (86 roadmap · 29 extra) |
-| 🔥 Current streak | **18 days** |
-| 📅 Last updated | 2026-04-03 |
+| ✅ Total solved | **123** (93 roadmap · 30 extra) |
+| 🔥 Current streak | **20 days** |
+| 📅 Last updated | 2026-04-05 |
 
 ---
 
@@ -50,7 +50,7 @@ Roadmap  [██████████░░░░░░░░░░] 49%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**37/44 · 84%**
+**38/44 · 86%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -62,18 +62,18 @@ Roadmap  [██████████░░░░░░░░░░] 49%  •
 | Day 15 | Advanced Tree Problems | ✅ |
 | Day 16 | Heaps / Priority Queue | 🔄 2/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | ✅ |
-| Day 18 | Queues + Deque Patterns | ⬜ |
+| Day 18 | Queues + Deque Patterns | 🔄 1/2 |
 | Day 19 | Trees + Heap — Mixed Hard Problems | 🔄 1/4 |
 | Day 20 | Phase 1+2 Full Review Day | ✅ |
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**4/31 · 13%**
+**5/31 · 16%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 21 | Graph Foundations + BFS/DFS | ✅ |
-| Day 22 | Graph BFS — Shortest Path & Grids | ⬜ |
+| Day 22 | Graph BFS — Shortest Path & Grids | 🔄 1/4 |
 | Day 23 | Topological Sort | ⬜ |
 | Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
 | Day 25 | Shortest Path Algorithms | ⬜ |
@@ -83,7 +83,7 @@ Roadmap  [██████████░░░░░░░░░░] 49%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**4/38 · 11%**
+**5/38 · 13%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -94,19 +94,19 @@ Roadmap  [██████████░░░░░░░░░░] 49%  •
 | Day 33 | String DP + Palindromes | ⬜ |
 | Day 34 | 2D Grid DP + Stock Problems | ⬜ |
 | Day 35 | Interval DP + Tree DP | ⬜ |
-| Day 36 | Backtracking Deep Dive | 🔄 1/4 |
+| Day 36 | Backtracking Deep Dive | 🔄 2/4 |
 | Day 37 | Backtracking — Hard Problems | ⬜ |
 
 ## 🟠 Phase 5: Advanced Topics
 
-**0/15 · 0%**
+**4/15 · 27%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 38 | Tries + String Algorithms | ⬜ |
-| Day 39 | Bit Manipulation | ⬜ |
+| Day 39 | Bit Manipulation | 🔄 3/5 |
 | Day 40 | Amazon-Style Mixed Round | ⬜ |
-| Day 41 | Google-Style Mixed Round | ⬜ |
+| Day 41 | Google-Style Mixed Round | 🔄 1/2 |
 | Day 42 | Flipkart/Meesho/Razorpay Style Round | ⬜ |
 
 ## 🔴 Phase 6: Mock Interviews & Revision
@@ -125,6 +125,13 @@ Roadmap  [██████████░░░░░░░░░░] 49%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | 🟡 | Day 18 | 2026-04-05 | 0 |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 | Day 22 | 2026-04-05 | 0 |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 | Day 39 | 2026-04-05 | 0 |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 🟢 | Day 39 | 2026-04-05 | 0 |
+| 371 | [Sum of Two Integers Without +](https://leetcode.com/problems/sum-of-two-integers/) | 🟡 | Day 39 | 2026-04-05 | 0 |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 | Day 36 | 2026-04-04 | 1 |
+| 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 | Day 41 | 2026-04-04 | 3 |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 | Day 21 | 2026-04-03 | 0 |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 | Day 36 | 2026-04-03 | 2 |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 | Day 21 | 2026-04-02 | 21 |
@@ -234,6 +241,12 @@ Roadmap  [██████████░░░░░░░░░░] 49%  •
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](./Extra-Problems/Binary_Search/2064-minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 | 2026-03-20 | — |
 | 1011 | [Capacity To Ship Packages Within D Days](./Extra-Problems/Binary_Search/1011-capacity-to-ship-packages-within-d-days.cpp) | 🟡 | 2026-03-20 | — |
 
+### Graphs
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 547 | [Number of Provinces](./Extra-Problems/Graphs/547-number-of-provinces.cpp) | 🟡 | 2026-04-05 | — |
+
 ### Greedy
 
 | # | Problem | Diff | Date | Note |
@@ -286,4 +299,4 @@ Roadmap  [██████████░░░░░░░░░░] 49%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 03 Apr 2026 18:21:56 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 05 Apr 2026 16:59:58 GMT*
