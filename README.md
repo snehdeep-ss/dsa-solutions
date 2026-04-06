@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████████░░░░░░░░░] 53%  •  93/176 problems
+Roadmap  [███████████░░░░░░░░░] 53%  •  94/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **123** (93 roadmap · 30 extra) |
-| 🔥 Current streak | **20 days** |
-| 📅 Last updated | 2026-04-05 |
+| ✅ Total solved | **124** (94 roadmap · 30 extra) |
+| 🔥 Current streak | **21 days** |
+| 📅 Last updated | 2026-04-06 |
 
 ---
 
@@ -50,7 +50,7 @@ Roadmap  [███████████░░░░░░░░░] 53%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**38/44 · 86%**
+**39/44 · 89%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -60,7 +60,7 @@ Roadmap  [███████████░░░░░░░░░] 53%  •
 | Day 13 | Tree — Paths, LCA, Views | ✅ |
 | Day 14 | BST — Operations & Patterns | ✅ |
 | Day 15 | Advanced Tree Problems | ✅ |
-| Day 16 | Heaps / Priority Queue | 🔄 2/4 |
+| Day 16 | Heaps / Priority Queue | 🔄 3/4 |
 | Day 17 | Heap — Task Scheduling & Greedy | ✅ |
 | Day 18 | Queues + Deque Patterns | 🔄 1/2 |
 | Day 19 | Trees + Heap — Mixed Hard Problems | 🔄 1/4 |
@@ -125,6 +125,7 @@ Roadmap  [███████████░░░░░░░░░] 53%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 | Day 16 | 2026-04-06 | 48 |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | 🟡 | Day 18 | 2026-04-05 | 0 |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 | Day 22 | 2026-04-05 | 0 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 | Day 39 | 2026-04-05 | 0 |
@@ -299,4 +300,4 @@ Roadmap  [███████████░░░░░░░░░] 53%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 05 Apr 2026 16:59:58 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 06 Apr 2026 15:41:20 GMT*
