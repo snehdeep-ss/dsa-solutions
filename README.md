@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████████░░░░░░░░░] 54%  •  95/176 problems
+Roadmap  [███████████░░░░░░░░░] 55%  •  96/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **125** (95 roadmap · 30 extra) |
+| ✅ Total solved | **126** (96 roadmap · 30 extra) |
 | 🔥 Current streak | **21 days** |
 | 📅 Last updated | 2026-04-06 |
 
@@ -83,7 +83,7 @@ Roadmap  [███████████░░░░░░░░░] 54%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**5/38 · 13%**
+**6/38 · 16%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -94,7 +94,7 @@ Roadmap  [███████████░░░░░░░░░] 54%  •
 | Day 33 | String DP + Palindromes | ⬜ |
 | Day 34 | 2D Grid DP + Stock Problems | ⬜ |
 | Day 35 | Interval DP + Tree DP | ⬜ |
-| Day 36 | Backtracking Deep Dive | 🔄 2/4 |
+| Day 36 | Backtracking Deep Dive | 🔄 3/4 |
 | Day 37 | Backtracking — Hard Problems | ⬜ |
 
 ## 🟠 Phase 5: Advanced Topics
@@ -127,6 +127,7 @@ Roadmap  [███████████░░░░░░░░░] 54%  •
 |---|---------|------|-----|------|---------|
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 | Day 16 | 2026-04-06 | 48 |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 | Day 16 | 2026-04-06 | 71 |
+| 90 | [Subsets II (with duplicates)](https://leetcode.com/problems/subsets-ii/) | 🟡 | Day 36 | 2026-04-06 | 2 |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | 🟡 | Day 18 | 2026-04-05 | 0 |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 | Day 22 | 2026-04-05 | 0 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 | Day 39 | 2026-04-05 | 0 |
@@ -301,4 +302,4 @@ Roadmap  [███████████░░░░░░░░░] 54%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 06 Apr 2026 16:14:48 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 06 Apr 2026 17:33:34 GMT*
