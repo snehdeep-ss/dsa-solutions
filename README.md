@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████████░░░░░░░░░] 55%  •  97/176 problems
+Roadmap  [███████████░░░░░░░░░] 56%  •  98/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **127** (97 roadmap · 30 extra) |
+| ✅ Total solved | **128** (98 roadmap · 30 extra) |
 | 🔥 Current streak | **22 days** |
 | 📅 Last updated | 2026-04-07 |
 
@@ -83,12 +83,12 @@ Roadmap  [███████████░░░░░░░░░] 55%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**7/38 · 18%**
+**8/38 · 21%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 29 | DP Foundations — 1D Patterns | 🔄 4/5 |
-| Day 30 | 0/1 Knapsack & Subset Sum | ⬜ |
+| Day 30 | 0/1 Knapsack & Subset Sum | 🔄 1/4 |
 | Day 31 | Unbounded Knapsack & Coin Change | ⬜ |
 | Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
 | Day 33 | String DP + Palindromes | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [███████████░░░░░░░░░] 55%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 213 | [House Robber II (Circular)](https://leetcode.com/problems/house-robber-ii/) | 🟡 | Day 29 | 2026-04-07 | 0 |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 | Day 30 | 2026-04-07 | 95 |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 | Day 16 | 2026-04-06 | 48 |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 | Day 16 | 2026-04-06 | 71 |
 | 90 | [Subsets II (with duplicates)](https://leetcode.com/problems/subsets-ii/) | 🟡 | Day 36 | 2026-04-06 | 2 |
@@ -303,4 +304,4 @@ Roadmap  [███████████░░░░░░░░░] 55%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 07 Apr 2026 18:07:36 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 07 Apr 2026 18:23:00 GMT*
