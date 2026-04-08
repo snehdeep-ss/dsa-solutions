@@ -125,7 +125,7 @@ Roadmap  [███████████░░░░░░░░░] 56%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
-| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 | Day 37 | 2026-04-08 | — |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 | Day 37 | 2026-04-08 | 373 |
 | 213 | [House Robber II (Circular)](https://leetcode.com/problems/house-robber-ii/) | 🟡 | Day 29 | 2026-04-07 | 0 |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 | Day 30 | 2026-04-07 | 95 |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 | Day 16 | 2026-04-06 | 48 |
@@ -305,4 +305,4 @@ Roadmap  [███████████░░░░░░░░░] 56%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 08 Apr 2026 17:55:56 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 08 Apr 2026 17:57:09 GMT*
