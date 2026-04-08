@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████████░░░░░░░░░] 56%  •  98/176 problems
+Roadmap  [███████████░░░░░░░░░] 56%  •  99/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **128** (98 roadmap · 30 extra) |
-| 🔥 Current streak | **22 days** |
-| 📅 Last updated | 2026-04-07 |
+| ✅ Total solved | **129** (99 roadmap · 30 extra) |
+| 🔥 Current streak | **23 days** |
+| 📅 Last updated | 2026-04-08 |
 
 ---
 
@@ -83,7 +83,7 @@ Roadmap  [███████████░░░░░░░░░] 56%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**8/38 · 21%**
+**9/38 · 24%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -95,7 +95,7 @@ Roadmap  [███████████░░░░░░░░░] 56%  •
 | Day 34 | 2D Grid DP + Stock Problems | ⬜ |
 | Day 35 | Interval DP + Tree DP | ⬜ |
 | Day 36 | Backtracking Deep Dive | 🔄 3/4 |
-| Day 37 | Backtracking — Hard Problems | ⬜ |
+| Day 37 | Backtracking — Hard Problems | 🔄 1/4 |
 
 ## 🟠 Phase 5: Advanced Topics
 
@@ -125,6 +125,7 @@ Roadmap  [███████████░░░░░░░░░] 56%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 | Day 37 | 2026-04-08 | — |
 | 213 | [House Robber II (Circular)](https://leetcode.com/problems/house-robber-ii/) | 🟡 | Day 29 | 2026-04-07 | 0 |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 | Day 30 | 2026-04-07 | 95 |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 | Day 16 | 2026-04-06 | 48 |
@@ -304,4 +305,4 @@ Roadmap  [███████████░░░░░░░░░] 56%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 07 Apr 2026 18:23:00 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 08 Apr 2026 17:55:56 GMT*
