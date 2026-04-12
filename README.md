@@ -10,9 +10,9 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **130** (100 roadmap · 30 extra) |
-| 🔥 Current streak | **23 days** |
-| 📅 Last updated | 2026-04-08 |
+| ✅ Total solved | **131** (100 roadmap · 31 extra) |
+| 🔥 Current streak | **1 day** |
+| 📅 Last updated | 2026-04-12 |
 
 ---
 
@@ -248,6 +248,12 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](./Extra-Problems/Binary_Search/2064-minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 | 2026-03-20 | — |
 | 1011 | [Capacity To Ship Packages Within D Days](./Extra-Problems/Binary_Search/1011-capacity-to-ship-packages-within-d-days.cpp) | 🟡 | 2026-03-20 | — |
 
+### Dynamic Programming
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 746 | [Min Cost Climbing Stairs](./Extra-Problems/Dynamic_Programming/746-min-cost-climbing-stairs.cpp) | 🟢 | 2026-04-12 | — |
+
 ### Graphs
 
 | # | Problem | Diff | Date | Note |
@@ -306,4 +312,4 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 08 Apr 2026 18:08:17 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 12 Apr 2026 12:14:33 GMT*
