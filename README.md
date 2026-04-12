@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████████░░░░░░░░░] 57%  •  101/176 problems
+Roadmap  [████████████░░░░░░░░] 58%  •  102/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **133** (101 roadmap · 32 extra) |
+| ✅ Total solved | **134** (102 roadmap · 32 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-04-12 |
 
@@ -83,13 +83,13 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**10/38 · 26%**
+**11/38 · 29%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 29 | DP Foundations — 1D Patterns | 🔄 4/5 |
 | Day 30 | 0/1 Knapsack & Subset Sum | 🔄 1/4 |
-| Day 31 | Unbounded Knapsack & Coin Change | 🔄 1/4 |
+| Day 31 | Unbounded Knapsack & Coin Change | 🔄 2/4 |
 | Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
 | Day 33 | String DP + Palindromes | ⬜ |
 | Day 34 | 2D Grid DP + Stock Problems | ⬜ |
@@ -126,6 +126,7 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 | Day 31 | 2026-04-12 | 17 |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 | Day 31 | 2026-04-12 | 33 |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 | Day 37 | 2026-04-08 | 373 |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 | Day 39 | 2026-04-08 | 0 |
 | 213 | [House Robber II (Circular)](https://leetcode.com/problems/house-robber-ii/) | 🟡 | Day 29 | 2026-04-07 | 0 |
@@ -314,4 +315,4 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 12 Apr 2026 14:05:33 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 12 Apr 2026 14:44:41 GMT*
