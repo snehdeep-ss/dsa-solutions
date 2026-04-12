@@ -10,7 +10,7 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **131** (100 roadmap · 31 extra) |
+| ✅ Total solved | **132** (100 roadmap · 32 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-04-12 |
 
@@ -253,6 +253,7 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 746 | [Min Cost Climbing Stairs](./Extra-Problems/Dynamic_Programming/746-min-cost-climbing-stairs.cpp) | 🟢 | 2026-04-12 | — |
+| 509 | [Fibonacci Number](./Extra-Problems/Dynamic_Programming/509-fibonacci-number.cpp) | 🟢 | 2026-04-12 | — |
 
 ### Graphs
 
@@ -312,4 +313,4 @@ Roadmap  [███████████░░░░░░░░░] 57%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 12 Apr 2026 12:14:33 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 12 Apr 2026 12:35:11 GMT*
