@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████████░░░░░░░░] 58%  •  102/176 problems
+Roadmap  [████████████░░░░░░░░] 59%  •  103/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **134** (102 roadmap · 32 extra) |
-| 🔥 Current streak | **1 day** |
-| 📅 Last updated | 2026-04-12 |
+| ✅ Total solved | **135** (103 roadmap · 32 extra) |
+| 🔥 Current streak | **2 days** |
+| 📅 Last updated | 2026-04-13 |
 
 ---
 
@@ -83,7 +83,7 @@ Roadmap  [████████████░░░░░░░░] 58%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**11/38 · 29%**
+**12/38 · 32%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -92,7 +92,7 @@ Roadmap  [████████████░░░░░░░░] 58%  •
 | Day 31 | Unbounded Knapsack & Coin Change | 🔄 2/4 |
 | Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
 | Day 33 | String DP + Palindromes | ⬜ |
-| Day 34 | 2D Grid DP + Stock Problems | ⬜ |
+| Day 34 | 2D Grid DP + Stock Problems | 🔄 1/5 |
 | Day 35 | Interval DP + Tree DP | ⬜ |
 | Day 36 | Backtracking Deep Dive | 🔄 3/4 |
 | Day 37 | Backtracking — Hard Problems | 🔄 1/4 |
@@ -125,6 +125,7 @@ Roadmap  [████████████░░░░░░░░] 58%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 | Day 34 | 2026-04-13 | 0 |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 | Day 31 | 2026-04-12 | 17 |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 | Day 31 | 2026-04-12 | 33 |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 | Day 37 | 2026-04-08 | 373 |
@@ -315,4 +316,4 @@ Roadmap  [████████████░░░░░░░░] 58%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 12 Apr 2026 14:44:41 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 13 Apr 2026 18:22:12 GMT*
