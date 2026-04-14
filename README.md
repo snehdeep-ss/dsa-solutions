@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████████░░░░░░░░] 59%  •  103/176 problems
+Roadmap  [████████████░░░░░░░░] 59%  •  104/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **135** (103 roadmap · 32 extra) |
-| 🔥 Current streak | **2 days** |
-| 📅 Last updated | 2026-04-13 |
+| ✅ Total solved | **136** (104 roadmap · 32 extra) |
+| 🔥 Current streak | **3 days** |
+| 📅 Last updated | 2026-04-14 |
 
 ---
 
@@ -83,13 +83,13 @@ Roadmap  [████████████░░░░░░░░] 59%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**12/38 · 32%**
+**13/38 · 34%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 29 | DP Foundations — 1D Patterns | 🔄 4/5 |
 | Day 30 | 0/1 Knapsack & Subset Sum | 🔄 1/4 |
-| Day 31 | Unbounded Knapsack & Coin Change | 🔄 2/4 |
+| Day 31 | Unbounded Knapsack & Coin Change | 🔄 3/4 |
 | Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
 | Day 33 | String DP + Palindromes | ⬜ |
 | Day 34 | 2D Grid DP + Stock Problems | 🔄 1/5 |
@@ -125,6 +125,7 @@ Roadmap  [████████████░░░░░░░░] 59%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 518 | [Coin Change II (count ways)](https://leetcode.com/problems/coin-change-ii/) | 🟡 | Day 31 | 2026-04-14 | 5 |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 | Day 34 | 2026-04-13 | 0 |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 | Day 31 | 2026-04-12 | 17 |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 | Day 31 | 2026-04-12 | 33 |
@@ -316,4 +317,4 @@ Roadmap  [████████████░░░░░░░░] 59%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 13 Apr 2026 18:22:12 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 07:59:10 GMT*
