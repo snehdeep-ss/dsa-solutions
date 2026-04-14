@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████████░░░░░░░░] 60%  •  105/176 problems
+Roadmap  [████████████░░░░░░░░] 60%  •  106/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **137** (105 roadmap · 32 extra) |
+| ✅ Total solved | **138** (106 roadmap · 32 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-04-14 |
 
@@ -68,7 +68,7 @@ Roadmap  [████████████░░░░░░░░] 60%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**5/31 · 16%**
+**6/31 · 19%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -78,7 +78,7 @@ Roadmap  [████████████░░░░░░░░] 60%  •
 | Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
 | Day 25 | Shortest Path Algorithms | ⬜ |
 | Day 26 | Advanced Graph Problems | ⬜ |
-| Day 27 | Greedy Algorithms | ⬜ |
+| Day 27 | Greedy Algorithms | 🔄 1/4 |
 | Day 28 | Greedy — Hard Variants + MST | ⬜ |
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
@@ -125,6 +125,7 @@ Roadmap  [████████████░░░░░░░░] 60%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 | Day 27 | 2026-04-14 | 0 |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | 🟡 | Day 29 | 2026-04-14 | 15 |
 | 518 | [Coin Change II (count ways)](https://leetcode.com/problems/coin-change-ii/) | 🟡 | Day 31 | 2026-04-14 | 5 |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 | Day 34 | 2026-04-13 | 0 |
@@ -318,4 +319,4 @@ Roadmap  [████████████░░░░░░░░] 60%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 10:05:22 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 10:35:49 GMT*
