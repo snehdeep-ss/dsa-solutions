@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████████░░░░░░░░] 61%  •  108/176 problems
+Roadmap  [████████████░░░░░░░░] 62%  •  109/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **140** (108 roadmap · 32 extra) |
+| ✅ Total solved | **141** (109 roadmap · 32 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-04-14 |
 
@@ -68,7 +68,7 @@ Roadmap  [████████████░░░░░░░░] 61%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**8/31 · 26%**
+**9/31 · 29%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -78,7 +78,7 @@ Roadmap  [████████████░░░░░░░░] 61%  •
 | Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
 | Day 25 | Shortest Path Algorithms | ⬜ |
 | Day 26 | Advanced Graph Problems | ⬜ |
-| Day 27 | Greedy Algorithms | 🔄 3/4 |
+| Day 27 | Greedy Algorithms | ✅ |
 | Day 28 | Greedy — Hard Variants + MST | ⬜ |
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
@@ -128,6 +128,7 @@ Roadmap  [████████████░░░░░░░░] 61%  •
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 | Day 27 | 2026-04-14 | 38 |
 | 452 | [Minimum Number of Arrows](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 | Day 27 | 2026-04-14 | 48 |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 | Day 27 | 2026-04-14 | 0 |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | 🟡 | Day 27 | 2026-04-14 | 0 |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | 🟡 | Day 29 | 2026-04-14 | 15 |
 | 518 | [Coin Change II (count ways)](https://leetcode.com/problems/coin-change-ii/) | 🟡 | Day 31 | 2026-04-14 | 5 |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 | Day 34 | 2026-04-13 | 0 |
@@ -321,4 +322,4 @@ Roadmap  [████████████░░░░░░░░] 61%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 12:49:29 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 16:01:41 GMT*
