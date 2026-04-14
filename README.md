@@ -10,7 +10,7 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **141** (109 roadmap · 32 extra) |
+| ✅ Total solved | **142** (109 roadmap · 33 extra) |
 | 🔥 Current streak | **3 days** |
 | 📅 Last updated | 2026-04-14 |
 
@@ -275,6 +275,7 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 55 | [Jump Game](./Extra-Problems/Greedy/55-jump-game.cpp) | 🟡 | 2026-03-21 | — |
+| 1109 | [Corporate Flight Bookings](./Extra-Problems/Greedy/1109-corporate-flight-bookings.cpp) | 🟡 | 2026-04-14 | — |
 
 ### Heap
 
@@ -322,4 +323,4 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 16:01:41 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 17:40:12 GMT*
