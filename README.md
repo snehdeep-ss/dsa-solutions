@@ -10,9 +10,9 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **143** (109 roadmap · 34 extra) |
-| 🔥 Current streak | **3 days** |
-| 📅 Last updated | 2026-04-14 |
+| ✅ Total solved | **144** (109 roadmap · 35 extra) |
+| 🔥 Current streak | **4 days** |
+| 📅 Last updated | 2026-04-15 |
 
 ---
 
@@ -270,6 +270,7 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 547 | [Number of Provinces](./Extra-Problems/Graphs/547-number-of-provinces.cpp) | 🟡 | 2026-04-05 | — |
+| 684 | [Redundant Connection](./Extra-Problems/Graphs/684-redundant-connection.cpp) | 🟡 | 2026-04-15 | — |
 
 ### Greedy
 
@@ -324,4 +325,4 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 14 Apr 2026 17:59:09 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 15 Apr 2026 14:07:30 GMT*
