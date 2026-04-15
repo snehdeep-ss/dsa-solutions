@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [████████████░░░░░░░░] 62%  •  109/176 problems
+Roadmap  [█████████████░░░░░░░] 63%  •  110/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **144** (109 roadmap · 35 extra) |
+| ✅ Total solved | **145** (110 roadmap · 35 extra) |
 | 🔥 Current streak | **4 days** |
 | 📅 Last updated | 2026-04-15 |
 
@@ -68,12 +68,12 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**9/31 · 29%**
+**10/31 · 32%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 21 | Graph Foundations + BFS/DFS | ✅ |
-| Day 22 | Graph BFS — Shortest Path & Grids | 🔄 1/4 |
+| Day 22 | Graph BFS — Shortest Path & Grids | 🔄 2/4 |
 | Day 23 | Topological Sort | ⬜ |
 | Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
 | Day 25 | Shortest Path Algorithms | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 | Day 22 | 2026-04-15 | 11 |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 | Day 27 | 2026-04-14 | 38 |
 | 452 | [Minimum Number of Arrows](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 | Day 27 | 2026-04-14 | 48 |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 | Day 27 | 2026-04-14 | 0 |
@@ -325,4 +326,4 @@ Roadmap  [████████████░░░░░░░░] 62%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 15 Apr 2026 14:07:30 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 15 Apr 2026 16:03:35 GMT*
