@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████████░░░░░░░] 63%  •  111/176 problems
+Roadmap  [█████████████░░░░░░░] 64%  •  112/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **146** (111 roadmap · 35 extra) |
+| ✅ Total solved | **147** (112 roadmap · 35 extra) |
 | 🔥 Current streak | **5 days** |
 | 📅 Last updated | 2026-04-16 |
 
@@ -68,12 +68,12 @@ Roadmap  [█████████████░░░░░░░] 63%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**11/31 · 35%**
+**12/31 · 39%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 21 | Graph Foundations + BFS/DFS | ✅ |
-| Day 22 | Graph BFS — Shortest Path & Grids | 🔄 3/4 |
+| Day 22 | Graph BFS — Shortest Path & Grids | ✅ |
 | Day 23 | Topological Sort | ⬜ |
 | Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
 | Day 25 | Shortest Path Algorithms | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█████████████░░░░░░░] 63%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 | Day 22 | 2026-04-16 | 11 |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 | Day 22 | 2026-04-16 | 6 |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 | Day 22 | 2026-04-15 | 11 |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 | Day 27 | 2026-04-14 | 38 |
@@ -327,4 +328,4 @@ Roadmap  [█████████████░░░░░░░] 63%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 16 Apr 2026 15:06:47 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 16 Apr 2026 15:34:39 GMT*
