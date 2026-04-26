@@ -10,7 +10,7 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **149** (113 roadmap · 36 extra) |
+| ✅ Total solved | **150** (113 roadmap · 37 extra) |
 | 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-04-26 |
 
@@ -291,6 +291,7 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 | 973 | [K Closest Points to Origin](./Extra-Problems/Heap/973-k-closest-points-to-origin.cpp) | 🟡 | 2026-03-22 | — |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](./Extra-Problems/Heap/2099-find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 | 2026-03-22 | — |
 | 347 | [Top K Frequent Elements](./Extra-Problems/Heap/347-top-k-frequent-elements.cpp) | 🟡 | 2026-03-22 | — |
+| 1046 | [Last Stone Weight](./Extra-Problems/Heap/1046-last-stone-weight.cpp) | 🟢 | 2026-04-26 | — |
 
 ### Linked List
 
@@ -330,4 +331,4 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 26 Apr 2026 11:37:38 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 26 Apr 2026 11:54:13 GMT*
