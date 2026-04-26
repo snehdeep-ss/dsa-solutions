@@ -268,7 +268,7 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 |---|---------|------|------|------|
 | 746 | [Min Cost Climbing Stairs](./Extra-Problems/Dynamic_Programming/746-min-cost-climbing-stairs.cpp) | 🟢 | 2026-04-12 | — |
 | 509 | [Fibonacci Number](./Extra-Problems/Dynamic_Programming/509-fibonacci-number.cpp) | 🟢 | 2026-04-12 | — |
-| 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 | 2026-04-26 | — |
+| 403 | [Frog Jump](./Extra-Problems/Dynamic_Programming/403-frog-jump.cpp) | 🔴 | 2026-04-26 | — |
 
 ### Graphs
 
@@ -330,4 +330,4 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 26 Apr 2026 11:36:36 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 26 Apr 2026 11:37:38 GMT*
