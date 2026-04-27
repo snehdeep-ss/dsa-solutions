@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████████░░░░░░░] 64%  •  113/176 problems
+Roadmap  [█████████████░░░░░░░] 65%  •  114/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **150** (113 roadmap · 37 extra) |
-| 🔥 Current streak | **1 day** |
-| 📅 Last updated | 2026-04-26 |
+| ✅ Total solved | **151** (114 roadmap · 37 extra) |
+| 🔥 Current streak | **2 days** |
+| 📅 Last updated | 2026-04-27 |
 
 ---
 
@@ -83,14 +83,14 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**14/38 · 37%**
+**15/38 · 39%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 29 | DP Foundations — 1D Patterns | ✅ |
 | Day 30 | 0/1 Knapsack & Subset Sum | 🔄 1/4 |
 | Day 31 | Unbounded Knapsack & Coin Change | 🔄 3/4 |
-| Day 32 | LCS, LIS — String/Sequence DP | ⬜ |
+| Day 32 | LCS, LIS — String/Sequence DP | 🔄 1/4 |
 | Day 33 | String DP + Palindromes | ⬜ |
 | Day 34 | 2D Grid DP + Stock Problems | 🔄 1/5 |
 | Day 35 | Interval DP + Tree DP | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 | Day 32 | 2026-04-27 | 27 |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | 🟡 | Day 28 | 2026-04-17 | 0 |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 | Day 22 | 2026-04-16 | 11 |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 | Day 22 | 2026-04-16 | 6 |
@@ -331,4 +332,4 @@ Roadmap  [█████████████░░░░░░░] 64%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 26 Apr 2026 11:54:13 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 27 Apr 2026 15:40:21 GMT*
