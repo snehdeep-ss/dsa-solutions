@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████████░░░░░░░] 65%  •  114/176 problems
+Roadmap  [█████████████░░░░░░░] 65%  •  115/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **151** (114 roadmap · 37 extra) |
-| 🔥 Current streak | **2 days** |
-| 📅 Last updated | 2026-04-27 |
+| ✅ Total solved | **152** (115 roadmap · 37 extra) |
+| 🔥 Current streak | **1 day** |
+| 📅 Last updated | 2026-05-02 |
 
 ---
 
@@ -68,7 +68,7 @@ Roadmap  [█████████████░░░░░░░] 65%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**13/31 · 42%**
+**14/31 · 45%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -79,7 +79,7 @@ Roadmap  [█████████████░░░░░░░] 65%  •
 | Day 25 | Shortest Path Algorithms | ⬜ |
 | Day 26 | Advanced Graph Problems | ⬜ |
 | Day 27 | Greedy Algorithms | ✅ |
-| Day 28 | Greedy — Hard Variants + MST | 🔄 1/4 |
+| Day 28 | Greedy — Hard Variants + MST | 🔄 2/4 |
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
@@ -125,6 +125,7 @@ Roadmap  [█████████████░░░░░░░] 65%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 1584 | [Min Cost to Connect All Points (Prim's)](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 | Day 28 | 2026-05-02 | 75 |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 | Day 32 | 2026-04-27 | 27 |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | 🟡 | Day 28 | 2026-04-17 | 0 |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | 🟡 | Day 22 | 2026-04-16 | 11 |
@@ -332,4 +333,4 @@ Roadmap  [█████████████░░░░░░░] 65%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 27 Apr 2026 15:40:21 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 02 May 2026 18:15:17 GMT*
