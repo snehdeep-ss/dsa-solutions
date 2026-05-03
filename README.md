@@ -10,7 +10,7 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **155** (117 roadmap · 38 extra) |
+| ✅ Total solved | **156** (117 roadmap · 39 extra) |
 | 🔥 Current streak | **2 days** |
 | 📅 Last updated | 2026-05-03 |
 
@@ -319,6 +319,7 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 | # | Problem | Diff | Date | Note |
 |---|---------|------|------|------|
 | 232 | [Implement Queue using Stacks](./Extra-Problems/Stack/232-implement-queue-using-stacks.cpp) | 🟢 | 2026-05-03 | — |
+| 225 | [Implement Stack using Queues](./Extra-Problems/Stack/225-implement-stack-using-queues.cpp) | 🟢 | 2026-05-03 | — |
 
 ### String
 
@@ -341,4 +342,4 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 03 May 2026 13:52:46 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 03 May 2026 14:15:09 GMT*
