@@ -10,7 +10,7 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **154** (117 roadmap · 37 extra) |
+| ✅ Total solved | **155** (117 roadmap · 38 extra) |
 | 🔥 Current streak | **2 days** |
 | 📅 Last updated | 2026-05-03 |
 
@@ -314,6 +314,12 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./Extra-Problems/Sliding_Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | 🟡 | 2026-03-06 | — |
 | 438 | [Find All Anagrams in a String](./Extra-Problems/Sliding_Window/438-find-all-anagrams-in-a-string.cpp) | 🟡 | 2026-03-07 | — |
 
+### Stack
+
+| # | Problem | Diff | Date | Note |
+|---|---------|------|------|------|
+| 232 | [Implement Queue using Stacks](./Extra-Problems/Stack/232-implement-queue-using-stacks.cpp) | 🟢 | 2026-05-03 | — |
+
 ### String
 
 | # | Problem | Diff | Date | Note |
@@ -335,4 +341,4 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 03 May 2026 13:31:54 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 03 May 2026 13:52:46 GMT*
