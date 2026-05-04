@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████████░░░░░░░] 66%  •  117/176 problems
+Roadmap  [█████████████░░░░░░░] 67%  •  118/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **156** (117 roadmap · 39 extra) |
-| 🔥 Current streak | **2 days** |
-| 📅 Last updated | 2026-05-03 |
+| ✅ Total solved | **157** (118 roadmap · 39 extra) |
+| 🔥 Current streak | **3 days** |
+| 📅 Last updated | 2026-05-04 |
 
 ---
 
@@ -83,7 +83,7 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**17/38 · 45%**
+**18/38 · 47%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -92,7 +92,7 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 | Day 31 | Unbounded Knapsack & Coin Change | ✅ |
 | Day 32 | LCS, LIS — String/Sequence DP | 🔄 2/4 |
 | Day 33 | String DP + Palindromes | ⬜ |
-| Day 34 | 2D Grid DP + Stock Problems | 🔄 1/5 |
+| Day 34 | 2D Grid DP + Stock Problems | 🔄 2/5 |
 | Day 35 | Interval DP + Tree DP | ⬜ |
 | Day 36 | Backtracking Deep Dive | 🔄 3/4 |
 | Day 37 | Backtracking — Hard Problems | 🔄 1/4 |
@@ -125,6 +125,7 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 | Day 34 | 2026-05-04 | 0 |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | 🟡 | Day 31 | 2026-05-03 | 0 |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 | Day 32 | 2026-05-03 | 0 |
 | 1584 | [Min Cost to Connect All Points (Prim's)](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 | Day 28 | 2026-05-02 | 75 |
@@ -342,4 +343,4 @@ Roadmap  [█████████████░░░░░░░] 66%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 03 May 2026 14:15:09 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 04 May 2026 18:21:34 GMT*
