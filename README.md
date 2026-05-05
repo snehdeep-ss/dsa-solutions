@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [█████████████░░░░░░░] 67%  •  118/176 problems
+Roadmap  [██████████████░░░░░░] 68%  •  119/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **157** (118 roadmap · 39 extra) |
-| 🔥 Current streak | **3 days** |
-| 📅 Last updated | 2026-05-04 |
+| ✅ Total solved | **158** (119 roadmap · 39 extra) |
+| 🔥 Current streak | **4 days** |
+| 📅 Last updated | 2026-05-05 |
 
 ---
 
@@ -83,14 +83,14 @@ Roadmap  [█████████████░░░░░░░] 67%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**18/38 · 47%**
+**19/38 · 50%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 29 | DP Foundations — 1D Patterns | ✅ |
 | Day 30 | 0/1 Knapsack & Subset Sum | 🔄 1/4 |
 | Day 31 | Unbounded Knapsack & Coin Change | ✅ |
-| Day 32 | LCS, LIS — String/Sequence DP | 🔄 2/4 |
+| Day 32 | LCS, LIS — String/Sequence DP | 🔄 3/4 |
 | Day 33 | String DP + Palindromes | ⬜ |
 | Day 34 | 2D Grid DP + Stock Problems | 🔄 2/5 |
 | Day 35 | Interval DP + Tree DP | ⬜ |
@@ -125,6 +125,7 @@ Roadmap  [█████████████░░░░░░░] 67%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | 🟡 | Day 32 | 2026-05-05 | 9 |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 | Day 34 | 2026-05-04 | 0 |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | 🟡 | Day 31 | 2026-05-03 | 0 |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 | Day 32 | 2026-05-03 | 0 |
@@ -343,4 +344,4 @@ Roadmap  [█████████████░░░░░░░] 67%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 04 May 2026 18:21:34 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 05 May 2026 16:49:29 GMT*
