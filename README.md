@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████████████░░░░░░] 69%  •  121/176 problems
+Roadmap  [██████████████░░░░░░] 69%  •  122/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **160** (121 roadmap · 39 extra) |
+| ✅ Total solved | **161** (122 roadmap · 39 extra) |
 | 🔥 Current streak | **5 days** |
 | 📅 Last updated | 2026-05-06 |
 
@@ -68,7 +68,7 @@ Roadmap  [██████████████░░░░░░] 69%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**15/31 · 48%**
+**16/31 · 52%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -79,7 +79,7 @@ Roadmap  [██████████████░░░░░░] 69%  •
 | Day 25 | Shortest Path Algorithms | ⬜ |
 | Day 26 | Advanced Graph Problems | ⬜ |
 | Day 27 | Greedy Algorithms | ✅ |
-| Day 28 | Greedy — Hard Variants + MST | 🔄 3/4 |
+| Day 28 | Greedy — Hard Variants + MST | ✅ |
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
@@ -125,6 +125,7 @@ Roadmap  [██████████████░░░░░░] 69%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 135 | [Candy Distribution](https://leetcode.com/problems/candy/) | 🔴 | Day 28 | 2026-05-06 | 0 |
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 | Day 28 | 2026-05-06 | 34 |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 | Day 32 | 2026-05-05 | 5 |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | 🟡 | Day 32 | 2026-05-05 | 9 |
@@ -346,4 +347,4 @@ Roadmap  [██████████████░░░░░░] 69%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 06 May 2026 18:22:03 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 06 May 2026 18:37:56 GMT*
