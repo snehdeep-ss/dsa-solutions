@@ -125,7 +125,7 @@ Roadmap  [██████████████░░░░░░] 70%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
-| 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 | Day 37 | 2026-05-07 | — |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 | Day 37 | 2026-05-07 | 723 |
 | 135 | [Candy Distribution](https://leetcode.com/problems/candy/) | 🔴 | Day 28 | 2026-05-06 | 0 |
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 | Day 28 | 2026-05-06 | 34 |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 | Day 32 | 2026-05-05 | 5 |
@@ -348,4 +348,4 @@ Roadmap  [██████████████░░░░░░] 70%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 07 May 2026 18:27:42 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 07 May 2026 18:29:44 GMT*
