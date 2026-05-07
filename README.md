@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████████████░░░░░░] 69%  •  122/176 problems
+Roadmap  [██████████████░░░░░░] 70%  •  123/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **161** (122 roadmap · 39 extra) |
-| 🔥 Current streak | **5 days** |
-| 📅 Last updated | 2026-05-06 |
+| ✅ Total solved | **162** (123 roadmap · 39 extra) |
+| 🔥 Current streak | **6 days** |
+| 📅 Last updated | 2026-05-07 |
 
 ---
 
@@ -83,7 +83,7 @@ Roadmap  [██████████████░░░░░░] 69%  •
 
 ## 🟣 Phase 4: Dynamic Programming & Backtracking
 
-**20/38 · 53%**
+**21/38 · 55%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -95,7 +95,7 @@ Roadmap  [██████████████░░░░░░] 69%  •
 | Day 34 | 2D Grid DP + Stock Problems | 🔄 2/5 |
 | Day 35 | Interval DP + Tree DP | ⬜ |
 | Day 36 | Backtracking Deep Dive | 🔄 3/4 |
-| Day 37 | Backtracking — Hard Problems | 🔄 1/4 |
+| Day 37 | Backtracking — Hard Problems | 🔄 2/4 |
 
 ## 🟠 Phase 5: Advanced Topics
 
@@ -125,6 +125,7 @@ Roadmap  [██████████████░░░░░░] 69%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 | Day 37 | 2026-05-07 | — |
 | 135 | [Candy Distribution](https://leetcode.com/problems/candy/) | 🔴 | Day 28 | 2026-05-06 | 0 |
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 | Day 28 | 2026-05-06 | 34 |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 | Day 32 | 2026-05-05 | 5 |
@@ -347,4 +348,4 @@ Roadmap  [██████████████░░░░░░] 69%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Wed, 06 May 2026 18:37:56 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Thu, 07 May 2026 18:27:42 GMT*
