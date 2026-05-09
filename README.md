@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████████████░░░░░░] 71%  •  125/176 problems
+Roadmap  [██████████████░░░░░░] 72%  •  126/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **164** (125 roadmap · 39 extra) |
+| ✅ Total solved | **165** (126 roadmap · 39 extra) |
 | 🔥 Current streak | **8 days** |
 | 📅 Last updated | 2026-05-09 |
 
@@ -68,14 +68,14 @@ Roadmap  [██████████████░░░░░░] 71%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**17/31 · 55%**
+**18/31 · 58%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 21 | Graph Foundations + BFS/DFS | ✅ |
 | Day 22 | Graph BFS — Shortest Path & Grids | ✅ |
 | Day 23 | Topological Sort | ⬜ |
-| Day 24 | Union-Find (Disjoint Set Union) | 🔄 1/5 |
+| Day 24 | Union-Find (Disjoint Set Union) | 🔄 2/5 |
 | Day 25 | Shortest Path Algorithms | ⬜ |
 | Day 26 | Advanced Graph Problems | ⬜ |
 | Day 27 | Greedy Algorithms | ✅ |
@@ -125,6 +125,7 @@ Roadmap  [██████████████░░░░░░] 71%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 | Day 24 | 2026-05-09 | 0 |
 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 | Day 24 | 2026-05-09 | 99 |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | 🟡 | Day 39 | 2026-05-08 | 0 |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 | Day 37 | 2026-05-07 | 723 |
@@ -350,4 +351,4 @@ Roadmap  [██████████████░░░░░░] 71%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 09 May 2026 11:40:01 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 09 May 2026 12:23:48 GMT*
