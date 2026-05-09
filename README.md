@@ -5,14 +5,14 @@
 ## 📊 Progress
 
 ```
-Roadmap  [██████████████░░░░░░] 70%  •  124/176 problems
+Roadmap  [██████████████░░░░░░] 71%  •  125/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **163** (124 roadmap · 39 extra) |
-| 🔥 Current streak | **7 days** |
-| 📅 Last updated | 2026-05-08 |
+| ✅ Total solved | **164** (125 roadmap · 39 extra) |
+| 🔥 Current streak | **8 days** |
+| 📅 Last updated | 2026-05-09 |
 
 ---
 
@@ -68,14 +68,14 @@ Roadmap  [██████████████░░░░░░] 70%  •
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
 
-**16/31 · 52%**
+**17/31 · 55%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 21 | Graph Foundations + BFS/DFS | ✅ |
 | Day 22 | Graph BFS — Shortest Path & Grids | ✅ |
 | Day 23 | Topological Sort | ⬜ |
-| Day 24 | Union-Find (Disjoint Set Union) | ⬜ |
+| Day 24 | Union-Find (Disjoint Set Union) | 🔄 1/5 |
 | Day 25 | Shortest Path Algorithms | ⬜ |
 | Day 26 | Advanced Graph Problems | ⬜ |
 | Day 27 | Greedy Algorithms | ✅ |
@@ -125,6 +125,7 @@ Roadmap  [██████████████░░░░░░] 70%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 | Day 24 | 2026-05-09 | 99 |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | 🟡 | Day 39 | 2026-05-08 | 0 |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 | Day 37 | 2026-05-07 | 723 |
 | 135 | [Candy Distribution](https://leetcode.com/problems/candy/) | 🔴 | Day 28 | 2026-05-06 | 0 |
@@ -349,4 +350,4 @@ Roadmap  [██████████████░░░░░░] 70%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Fri, 08 May 2026 18:27:42 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sat, 09 May 2026 11:40:01 GMT*
