@@ -125,7 +125,7 @@ Roadmap  [███████████████░░░░░] 73%  •
 
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
-| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 | Day 23 | 2026-05-10 | — |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 | Day 23 | 2026-05-10 | 4 |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 | Day 24 | 2026-05-09 | 0 |
 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 | Day 24 | 2026-05-09 | 99 |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | 🟡 | Day 24 | 2026-05-09 | 0 |
@@ -353,4 +353,4 @@ Roadmap  [███████████████░░░░░] 73%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 10 May 2026 10:20:30 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 10 May 2026 10:21:28 GMT*
