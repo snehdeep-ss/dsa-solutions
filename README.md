@@ -10,7 +10,7 @@ Roadmap  [███████████████░░░░░] 73%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **168** (129 roadmap · 39 extra) |
+| ✅ Total solved | **169** (129 roadmap · 40 extra) |
 | 🔥 Current streak | **9 days** |
 | 📅 Last updated | 2026-05-10 |
 
@@ -285,6 +285,7 @@ Roadmap  [███████████████░░░░░] 73%  •
 | 746 | [Min Cost Climbing Stairs](./Extra-Problems/Dynamic_Programming/746-min-cost-climbing-stairs.cpp) | 🟢 | 2026-04-12 | — |
 | 509 | [Fibonacci Number](./Extra-Problems/Dynamic_Programming/509-fibonacci-number.cpp) | 🟢 | 2026-04-12 | — |
 | 403 | [Frog Jump](./Extra-Problems/Dynamic_Programming/403-frog-jump.cpp) | 🔴 | 2026-04-26 | — |
+| 2770 | [Maximum Number of Jumps to Reach the Last Index](./Extra-Problems/Dynamic_Programming/2770-maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 | 2026-05-10 | — |
 
 ### Graphs
 
@@ -354,4 +355,4 @@ Roadmap  [███████████████░░░░░] 73%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 10 May 2026 10:26:52 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 10 May 2026 12:20:11 GMT*
