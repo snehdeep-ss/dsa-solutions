@@ -10,7 +10,7 @@ Roadmap  [███████████████░░░░░] 74%  •
 
 | | |
 |-|-|
-| ✅ Total solved | **170** (130 roadmap · 40 extra) |
+| ✅ Total solved | **171** (130 roadmap · 41 extra) |
 | 🔥 Current streak | **10 days** |
 | 📅 Last updated | 2026-05-11 |
 
@@ -268,6 +268,7 @@ Roadmap  [███████████████░░░░░] 74%  •
 | 735 | [Asteroid Collision](./Extra-Problems/Arrays/735-asteroid-collision.cpp) | 🟡 | 2026-03-19 | — |
 | 414 | [Third Maximum Number](./Extra-Problems/Arrays/414-third-maximum-number.cpp) | 🟢 | 2026-03-22 | — |
 | 1854 | [Maximum Population Year](./Extra-Problems/Arrays/1854-maximum-population-year.cpp) | 🟢 | 2026-04-14 | — |
+| 2553 | [Separate the Digits in an Array](./Extra-Problems/Arrays/2553-separate-the-digits-in-an-array.cpp) | 🟢 | 2026-05-11 | — |
 
 ### Binary Search
 
@@ -356,4 +357,4 @@ Roadmap  [███████████████░░░░░] 74%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 11 May 2026 15:41:51 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Mon, 11 May 2026 15:50:25 GMT*
