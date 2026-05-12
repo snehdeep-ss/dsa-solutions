@@ -5,12 +5,12 @@
 ## 📊 Progress
 
 ```
-Roadmap  [███████████████░░░░░] 74%  •  131/176 problems
+Roadmap  [███████████████░░░░░] 75%  •  132/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **172** (131 roadmap · 41 extra) |
+| ✅ Total solved | **173** (132 roadmap · 41 extra) |
 | 🔥 Current streak | **11 days** |
 | 📅 Last updated | 2026-05-12 |
 
@@ -50,7 +50,7 @@ Roadmap  [███████████████░░░░░] 74%  •
 
 ## 🔵 Phase 2: Recursion, Trees & Heaps
 
-**41/44 · 93%**
+**42/44 · 95%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -63,7 +63,7 @@ Roadmap  [███████████████░░░░░] 74%  •
 | Day 16 | Heaps / Priority Queue | ✅ |
 | Day 17 | Heap — Task Scheduling & Greedy | ✅ |
 | Day 18 | Queues + Deque Patterns | ✅ |
-| Day 19 | Trees + Heap — Mixed Hard Problems | 🔄 1/4 |
+| Day 19 | Trees + Heap — Mixed Hard Problems | 🔄 2/4 |
 | Day 20 | Phase 1+2 Full Review Day | ✅ |
 
 ## 🟡 Phase 3: Graphs, Union-Find & Greedy
@@ -126,6 +126,7 @@ Roadmap  [███████████████░░░░░] 74%  •
 | # | Problem | Diff | Day | Date | Runtime |
 |---|---------|------|-----|------|---------|
 | 1696 | [Jump Game VI (DP + Deque)](https://leetcode.com/problems/jump-game-vi/) | 🟡 | Day 18 | 2026-05-12 | 7 |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | 🟡 | Day 19 | 2026-05-12 | 20 |
 | 743 | [Network Delay Time (Dijkstra)](https://leetcode.com/problems/network-delay-time/) | 🟡 | Day 25 | 2026-05-11 | 95 |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 | Day 23 | 2026-05-10 | 4 |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 | Day 23 | 2026-05-10 | 7 |
@@ -358,4 +359,4 @@ Roadmap  [███████████████░░░░░] 74%  •
 | 617 | [Merge Two Binary Trees](./Extra-Problems/Trees/617-merge-two-binary-trees.cpp) | 🟢 | 2026-03-31 | — |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 12 May 2026 17:40:59 GMT*
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Tue, 12 May 2026 17:49:19 GMT*
